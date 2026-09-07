@@ -28,3 +28,7 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+else:
+    # This module is being imported, not run directly
+    # Do nothing to prevent auto-execution
+    pass
