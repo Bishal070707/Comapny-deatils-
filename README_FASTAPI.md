@@ -37,9 +37,9 @@ MS_CLIENT_ID=your_client_id
 MS_CLIENT_SECRET=your_client_secret
 OUTLOOK_SENDER=your_email@domain.com
 EMAIL_TO=recipient@domain.com
-EMAIL_TEMPLATE=reminder
-EMAIL_SUBJECT=Scheduled reminder
-EMAIL_NAME=Admin
+EMAIL_TEMPLATE=company_profile
+EMAIL_SUBJECT=Araspl Steels Private Limited | Company Profile
+EMAIL_NAME=
 INTERVAL_SECONDS=30
 ```
 
@@ -73,8 +73,8 @@ Access the Swagger UI: http://localhost:8000/docs
   {
     "recipient": "user@example.com",
     "subject": "Custom Subject",
-    "template": "reminder",
-    "name": "User Name"
+    "template": "company_profile",
+    "name": ""
   }
   ```
 
@@ -94,10 +94,8 @@ Access the Swagger UI: http://localhost:8000/docs
 
 ## Email Templates
 
-Available templates in `email_templates.py`:
-- `reminder` - Scheduled reminder message
-- `welcome` - Welcome message
-- `status` - Status update message
+Available template in `email_templates.py`:
+- `company_profile` - Araspl Steels Private Limited company profile
 
 ## Project Structure
 
@@ -123,8 +121,8 @@ curl -X POST "http://localhost:8000/send" \
   -d '{
     "recipient": "user@example.com",
     "subject": "Test Email",
-    "template": "reminder",
-    "name": "John"
+    "template": "company_profile",
+    "name": ""
   }'
 ```
 

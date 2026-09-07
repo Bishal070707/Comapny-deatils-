@@ -40,9 +40,9 @@ class Settings:
             client_secret=required["MS_CLIENT_SECRET"],
             sender=required["OUTLOOK_SENDER"],
             recipient=required["EMAIL_TO"],
-            template=os.getenv("EMAIL_TEMPLATE", "reminder"),
+            template=os.getenv("EMAIL_TEMPLATE", "company_profile"),
             subject=os.getenv("EMAIL_SUBJECT"),
-            name=os.getenv("EMAIL_NAME", "Admin"),
+            name=os.getenv("EMAIL_NAME", ""),
         )
 
 

@@ -8,8 +8,8 @@ try:
     data = {
         "recipient": "sayancr799@gmail.com",
         "subject": "Test Email",
-        "template": "reminder",
-        "name": "Admin"
+        "template": "company_profile",
+        "name": ""
     }
     
     print("Sending request to:", url)
