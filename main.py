@@ -5,9 +5,13 @@ import asyncio
 from dotenv import load_dotenv
 from send_email import Settings, send_email
 from typing import Optional
+from datetime import datetime
 
 # Load environment variables
 load_dotenv()
+
+# Get test mode setting
+TEST_MODE = os.getenv("TEST_MODE", "false").lower() == "true"
 
 app = FastAPI(
     title="Email Scheduler API",
@@ -73,15 +77,18 @@ async def send_email_endpoint(request: SendEmailRequest):
                 name=request.name or settings.name,
             )
         
-        send_email(settings)
+        # Send email or simulate if in test mode
+        if TEST_MODE:
+            print(f"[TEST MODE] Would send email to {settings.recipient} from {settings.sender}")
+        else:
+            send_email(settings)
         
         scheduler_state["total_sent"] += 1
-        from datetime import datetime
         scheduler_state["last_sent"] = datetime.utcnow().isoformat()
         
         return SendEmailResponse(
             success=True,
-            message="Email sent successfully",
+            message=f"Email sent successfully{' (test mode)' if TEST_MODE else ''}",
             recipient=settings.recipient,
             template=settings.template
         )
@@ -155,9 +162,11 @@ async def _run_scheduler():
     
     while scheduler_state["running"]:
         try:
-            send_email(settings)
+            if TEST_MODE:
+                print(f"[TEST MODE] Would send email to {settings.recipient} from {settings.sender}")
+            else:
+                send_email(settings)
             scheduler_state["total_sent"] += 1
-            from datetime import datetime
             scheduler_state["last_sent"] = datetime.utcnow().isoformat()
             scheduler_state["last_error"] = None
         except Exception as e:
