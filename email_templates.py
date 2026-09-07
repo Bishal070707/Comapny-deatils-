@@ -49,10 +49,45 @@ def status(name: str = "Admin") -> tuple[str, str]:
     return subject, _layout(subject, body)
 
 
+def profile_introduction(name: str = "Admin") -> tuple[str, str]:
+    subject = "Professional profile for your review"
+    body = (
+        f"<p>Hello {escape(name)},</p>"
+        "<p>I am sharing a professional profile for your review and consideration.</p>"
+        "<p>Please let me know if this profile matches any current or upcoming requirements.</p>"
+        "<p>I would be happy to provide additional details or arrange an introduction.</p>"
+    )
+    return subject, _layout(subject, body)
+
+
+def profile_follow_up(name: str = "Admin") -> tuple[str, str]:
+    subject = "Follow-up on the shared profile"
+    body = (
+        f"<p>Hello {escape(name)},</p>"
+        "<p>I wanted to follow up on the professional profile shared with you.</p>"
+        "<p>Could you please let me know whether the profile is relevant to your current needs?</p>"
+        "<p>I am available to answer questions and share any further information.</p>"
+    )
+    return subject, _layout(subject, body)
+
+
+def profile_availability(name: str = "Admin") -> tuple[str, str]:
+    subject = "Profile availability and next steps"
+    body = (
+        f"<p>Hello {escape(name)},</p>"
+        "<p>I am checking whether you would like to discuss the professional profile recently shared.</p>"
+        "<p>Please let me know a convenient time to discuss the fit, availability, and next steps.</p>"
+    )
+    return subject, _layout(subject, body)
+
+
 TEMPLATES = {
     "reminder": reminder,
     "welcome": welcome,
     "status": status,
+    "profile_introduction": profile_introduction,
+    "profile_follow_up": profile_follow_up,
+    "profile_availability": profile_availability,
 }
 
 
