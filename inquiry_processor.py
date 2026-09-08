@@ -157,7 +157,7 @@ def classify_with_gpt(message: dict[str, Any], request: Callable[..., requests.R
     """Ask a configured GPT-compatible endpoint for strict JSON classification."""
     api_key = os.getenv("OPENAI_API_KEY")
     endpoint = os.getenv("OPENAI_API_URL", "https://api.openai.com/v1/chat/completions")
-    model = os.getenv("OPENAI_MODEL", "gpt-5.6-luna")
+    model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
     if not api_key:
         raise RuntimeError("OPENAI_API_KEY is required for inquiry classification")
     prompt = (
