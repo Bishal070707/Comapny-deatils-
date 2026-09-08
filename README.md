@@ -1,11 +1,11 @@
-# Outlook API email scheduler
+# Outlook inquiry processor
 
-This project sends an HTML email through Microsoft Graph every 30 seconds by default.
+This project reads unread Outlook messages through Microsoft Graph, uses a GPT-compatible endpoint to identify business inquiries, extracts contact and requirement data, replies once, and marks each processed message as read. Each run prints a daily report such as `Processed: 50, Inquiries: 5, Auto-replies sent: 5`.
 
 ## Microsoft setup
 
 1. Create an app registration in Microsoft Entra ID.
-2. Add the Microsoft Graph **Application** permission `Mail.Send`.
+2. Add the Microsoft Graph **Application** permissions `Mail.ReadWrite` and `Mail.Send`.
 3. Grant admin consent for the permission.
 4. Create a client secret and copy the tenant ID, client ID, and secret.
 
@@ -23,15 +23,26 @@ New-Item -Path .env -ItemType File
 notepad .env
 ```
 
-Set `MS_TENANT_ID`, `MS_CLIENT_ID`, and `MS_CLIENT_SECRET` in `.env` before running. The default sender and recipient are both `admin@araspl.com`. Change `EMAIL_TO` if the message should go elsewhere.
+Set these values in `.env` before running:
+
+```
+MS_TENANT_ID=your_tenant_id
+MS_CLIENT_ID=your_client_id
+MS_CLIENT_SECRET=your_client_secret
+OUTLOOK_SENDER=mailbox@domain.com
+OPENAI_API_KEY=your_model_key
+OPENAI_API_URL=https://api.openai.com/v1/chat/completions
+OPENAI_MODEL=gpt-5.6-luna
+INQUIRY_DATA_DIR=data
+```
+
+`OPENAI_API_URL` can point to the provider endpoint that exposes GPT-5.6 Luna through an OpenAI-compatible chat-completions API. Do not commit `.env`.
 
 The client email uses the `company_profile` template and sends the RASPL company profile to the configured recipient.
 
 ## Run commands
 
-### Legacy scheduler
-
-Sends an email on the configured interval, every 30 seconds by default:
+### Process inbox once
 
 ```powershell
 python scheduler.py
@@ -43,7 +54,17 @@ Or use the Windows launcher:
 .\run_scheduler.bat
 ```
 
-### Send one email
+The run writes `data/inquiries.sqlite3`, `data/inquiries.json`, `data/inquiries.xlsx`, and `inquiry_processor.log`. A failed message is logged and processing continues with the next message.
+
+### Schedule daily at 9 AM on Windows
+
+Run PowerShell as the account that owns the project and create a daily task:
+
+```powershell
+schtasks /Create /TN "Outlook Inquiry Processor" /SC DAILY /ST 09:00 /TR "C:\Users\Admin\Desktop\campain\.venv\Scripts\python.exe C:\Users\Admin\Desktop\campain\scheduler.py" /F
+```
+
+### Send one unrelated email
 
 Sends a single email and exits:
 
@@ -83,13 +104,13 @@ curl -X POST http://localhost:8000/send `
   -d '{"recipient":"user@example.com","subject":"Araspl Steels Private Limited | Company Profile","template":"company_profile","name":""}'
 ```
 
-Check scheduler status:
+Check API status:
 
 ```powershell
 curl http://localhost:8000/status
 ```
 
-Start the API scheduler:
+Start the API scheduler (legacy outbound API feature):
 
 ```powershell
 curl -X POST http://localhost:8000/scheduler/start `
@@ -109,4 +130,10 @@ Read the current settings:
 curl http://localhost:8000/settings
 ```
 
-Do not commit `.env`. It contains the client secret.
+### Tests
+
+The ten-message fixture covers five inquiries, five ignored messages, auto-replies, marking as read, exports, and duplicate protection:
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest -q
+```

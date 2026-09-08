@@ -4,6 +4,7 @@ import os
 import asyncio
 from dotenv import load_dotenv
 from send_email import Settings, send_email
+from inquiry_processor import GraphMailbox, InquiryStore, process_unread
 from typing import Optional
 from datetime import datetime
 
@@ -52,11 +53,32 @@ class SchedulerStatus(BaseModel):
     total_sent: int
     last_error: Optional[str]
 
+class InboxProcessResponse(BaseModel):
+    processed: int
+    inquiries: int
+    auto_replies_sent: int
+    ignored: int
+    errors: int
+
 # Endpoints
 @app.get("/health", tags=["Health"])
 async def health_check():
     """Health check endpoint"""
     return {"status": "healthy", "service": "email-scheduler"}
+
+@app.post("/inbox/process", response_model=InboxProcessResponse, tags=["Inbox"])
+def process_inbox_endpoint():
+    """Classify unread Outlook messages, reply to inquiries, and ignore the rest."""
+    try:
+        settings = Settings.from_environment()
+        result = process_unread(
+            GraphMailbox(settings),
+            InquiryStore(os.getenv("INQUIRY_DATA_DIR", "data")),
+        )
+        return InboxProcessResponse(**result.__dict__)
+    except Exception as error:
+        scheduler_state["last_error"] = str(error)
+        raise HTTPException(status_code=500, detail=f"Failed to process inbox: {error}") from error
 
 @app.post("/send", response_model=SendEmailResponse, tags=["Email"])
 async def send_email_endpoint(request: SendEmailRequest):

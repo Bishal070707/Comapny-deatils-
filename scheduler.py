@@ -1,34 +1,22 @@
+import argparse
+import logging
 import os
-import time
-import traceback
 
 from dotenv import load_dotenv
 
-from send_email import Settings, send_email
+from inquiry_processor import GraphMailbox, InquiryStore, process_unread
 
 
 def main() -> None:
     load_dotenv()
-    interval = int(os.getenv("INTERVAL_SECONDS", "30"))
-    if interval < 1:
-        raise ValueError("INTERVAL_SECONDS must be at least 1")
-
-    settings = Settings.from_environment()
-    print(f"Email scheduler started; sending every {interval} seconds. Press Ctrl+C to stop.", flush=True)
-    while True:
-        started = time.monotonic()
-        try:
-            send_email(settings)
-        except Exception:
-            print("Email attempt failed:", flush=True)
-            traceback.print_exc()
-        elapsed = time.monotonic() - started
-        time.sleep(max(0, interval - elapsed))
+    parser = argparse.ArgumentParser(description="Process the Outlook inbox once")
+    parser.add_argument("--data-dir", default=os.getenv("INQUIRY_DATA_DIR", "data"))
+    args = parser.parse_args()
+    logging.basicConfig(filename="inquiry_processor.log", level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+    from send_email import Settings
+    result = process_unread(GraphMailbox(Settings.from_environment()), InquiryStore(args.data_dir))
+    print(f"Processed: {result.processed}, Inquiries: {result.inquiries}, Auto-replies sent: {result.auto_replies_sent}")
 
 
 if __name__ == "__main__":
     main()
-else:
-    # This module is being imported, not run directly
-    # Do nothing to prevent auto-execution
-    pass

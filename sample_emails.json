@@ -1,0 +1,12 @@
+[
+  {"id": "sample-01", "subject": "Quote for structural steel", "from": {"emailAddress": {"address": "buyer1@example.com"}}, "sample_inquiry": true},
+  {"id": "sample-02", "subject": "Price and availability of pipes", "from": {"emailAddress": {"address": "buyer2@example.com"}}, "sample_inquiry": true},
+  {"id": "sample-03", "subject": "Monthly newsletter", "from": {"emailAddress": {"address": "news@example.com"}}, "sample_inquiry": false},
+  {"id": "sample-04", "subject": "Partnership proposal", "from": {"emailAddress": {"address": "partner@example.com"}}, "sample_inquiry": true},
+  {"id": "sample-05", "subject": "Order status request", "from": {"emailAddress": {"address": "buyer5@example.com"}}, "sample_inquiry": true},
+  {"id": "sample-06", "subject": "Out of office reply", "from": {"emailAddress": {"address": "auto@example.com"}}, "sample_inquiry": false},
+  {"id": "sample-07", "subject": "Limited time promotion", "from": {"emailAddress": {"address": "marketing@example.com"}}, "sample_inquiry": false},
+  {"id": "sample-08", "subject": "Service availability question", "from": {"emailAddress": {"address": "buyer8@example.com"}}, "sample_inquiry": true},
+  {"id": "sample-09", "subject": "Internal team update", "from": {"emailAddress": {"address": "colleague@example.com"}}, "sample_inquiry": false},
+  {"id": "sample-10", "subject": "Spam message", "from": {"emailAddress": {"address": "spam@example.com"}}, "sample_inquiry": false}
+]
