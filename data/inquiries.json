@@ -1,0 +1,157 @@
+[
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "sayancr799@gmail.com",
+    "phone": "",
+    "product_interest": "Angle",
+    "quantity": "",
+    "detected_products": [
+      "Angle"
+    ],
+    "score": 7,
+    "reasons": [
+      "Detected products: Angle",
+      "Contains quantity/specifications",
+      "Contains inquiry keywords"
+    ],
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCQAAA=",
+    "timestamp": "2026-09-08T11:21:29.737968+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Angle",
+    "quantity": "",
+    "detected_products": [
+      "Angle"
+    ],
+    "score": 7,
+    "reasons": [
+      "Detected products: Angle",
+      "Contains quantity/specifications",
+      "Contains inquiry keywords"
+    ],
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCRAAA=",
+    "timestamp": "2026-09-08T11:32:02.697531+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Angle",
+    "quantity": "",
+    "detected_products": [
+      "Angle"
+    ],
+    "score": 7,
+    "reasons": [
+      "Detected products: Angle",
+      "Contains quantity/specifications",
+      "Contains inquiry keywords"
+    ],
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCSAAA=",
+    "timestamp": "2026-09-08T11:32:52.325311+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Angle",
+    "quantity": "",
+    "detected_products": [
+      "Angle"
+    ],
+    "score": 5,
+    "reasons": [
+      "Detected products: Angle",
+      "Contains inquiry keywords"
+    ],
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCTAAA=",
+    "timestamp": "2026-09-08T11:34:12.687596+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "sayanroy8942@gmail.com",
+    "phone": "",
+    "product_interest": "Steel Product, Channel",
+    "quantity": "37.305mt",
+    "detected_products": [
+      "Steel Product",
+      "Channel"
+    ],
+    "reasons": [
+      "Multiple products (4) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCZAAA=",
+    "timestamp": "2026-09-08T11:55:45.467625+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "sayanroy8942@gmail.com",
+    "phone": "",
+    "product_interest": "Steel Product, Channel",
+    "quantity": "37.305mt",
+    "detected_products": [
+      "Steel Product",
+      "Channel"
+    ],
+    "reasons": [
+      "Multiple products (4) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCaAAA=",
+    "timestamp": "2026-09-08T11:56:45.501843+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "sayanroy8942@gmail.com",
+    "phone": "",
+    "product_interest": "Steel Product, Flat",
+    "quantity": "37.305mt",
+    "detected_products": [
+      "Steel Product",
+      "Flat"
+    ],
+    "reasons": [
+      "Multiple products (3) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCeAAA=",
+    "timestamp": "2026-09-08T12:38:16.415114+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "sayanroy8942@gmail.com",
+    "phone": "",
+    "product_interest": "Steel Product, Channel",
+    "quantity": "37.305mt",
+    "detected_products": [
+      "Steel Product",
+      "Channel"
+    ],
+    "reasons": [
+      "Multiple products (4) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCjAAA=",
+    "timestamp": "2026-09-08T12:57:07.044694+00:00"
+  }
+]

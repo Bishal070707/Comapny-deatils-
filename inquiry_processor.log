@@ -1,0 +1,1449 @@
+2026-09-08 04:30:32,127 INFO Found 0 unread messages
+2026-09-08 04:30:32,127 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:30:42,097 INFO Found 0 unread messages
+2026-09-08 04:30:42,097 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:30:52,192 INFO Found 0 unread messages
+2026-09-08 04:30:52,192 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:31:02,020 INFO Found 0 unread messages
+2026-09-08 04:31:02,030 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:31:12,177 INFO Found 0 unread messages
+2026-09-08 04:31:12,177 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:31:22,044 INFO Found 0 unread messages
+2026-09-08 04:31:22,044 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:31:32,100 INFO Found 0 unread messages
+2026-09-08 04:31:32,100 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:31:42,057 INFO Found 0 unread messages
+2026-09-08 04:31:42,057 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:31:52,211 INFO Found 0 unread messages
+2026-09-08 04:31:52,212 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:32:02,180 INFO Found 1 unread messages
+2026-09-08 04:32:02,181 INFO Email from roybishal200189@gmail.com: Score=7, Is Inquiry=True, Reasons=['Detected products: Angle', 'Contains quantity/specifications', 'Contains inquiry keywords']
+2026-09-08 04:32:02,697 INFO Sent auto-reply to roybishal200189@gmail.com
+2026-09-08 04:32:02,967 INFO Processed: 1, Inquiries: 1, Auto-replies sent: 1, Ignored: 0, Errors: 0
+2026-09-08 04:32:12,202 INFO Found 0 unread messages
+2026-09-08 04:32:12,202 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:32:22,282 INFO Found 0 unread messages
+2026-09-08 04:32:22,282 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:32:32,193 INFO Found 0 unread messages
+2026-09-08 04:32:32,193 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:32:42,126 INFO Found 0 unread messages
+2026-09-08 04:32:42,126 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:32:52,224 INFO Found 1 unread messages
+2026-09-08 04:32:52,234 INFO Email from roybishal200189@gmail.com: Score=7, Is Inquiry=True, Reasons=['Detected products: Angle', 'Contains quantity/specifications', 'Contains inquiry keywords']
+2026-09-08 04:32:52,325 INFO Skipping duplicate reply for AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCSAAA=
+2026-09-08 04:32:52,504 INFO Processed: 1, Inquiries: 1, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:33:02,158 INFO Found 0 unread messages
+2026-09-08 04:33:02,158 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:33:12,304 INFO Found 0 unread messages
+2026-09-08 04:33:12,304 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:33:22,079 INFO Found 0 unread messages
+2026-09-08 04:33:22,079 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:33:32,169 INFO Found 0 unread messages
+2026-09-08 04:33:32,169 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:33:42,257 INFO Found 0 unread messages
+2026-09-08 04:33:42,257 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:33:52,235 INFO Found 0 unread messages
+2026-09-08 04:33:52,235 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:34:02,172 INFO Found 0 unread messages
+2026-09-08 04:34:02,172 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:34:12,205 INFO Found 1 unread messages
+2026-09-08 04:34:12,207 INFO Email from roybishal200189@gmail.com: Score=5, Is Inquiry=True, Reasons=['Detected products: Angle', 'Contains inquiry keywords']
+2026-09-08 04:34:12,687 INFO Sent auto-reply to roybishal200189@gmail.com
+2026-09-08 04:34:12,856 INFO Processed: 1, Inquiries: 1, Auto-replies sent: 1, Ignored: 0, Errors: 0
+2026-09-08 04:34:22,183 INFO Found 0 unread messages
+2026-09-08 04:34:22,183 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:34:32,176 INFO Found 0 unread messages
+2026-09-08 04:34:32,176 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:34:42,164 INFO Found 0 unread messages
+2026-09-08 04:34:42,164 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:34:52,034 INFO Found 0 unread messages
+2026-09-08 04:34:52,034 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:35:02,120 INFO Found 0 unread messages
+2026-09-08 04:35:02,120 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:35:12,168 INFO Found 0 unread messages
+2026-09-08 04:35:12,168 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:35:22,177 INFO Found 0 unread messages
+2026-09-08 04:35:22,178 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:35:32,354 INFO Found 0 unread messages
+2026-09-08 04:35:32,354 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:35:42,430 INFO Found 0 unread messages
+2026-09-08 04:35:42,430 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:35:52,150 INFO Found 0 unread messages
+2026-09-08 04:35:52,150 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:36:02,548 INFO Found 0 unread messages
+2026-09-08 04:36:02,548 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:36:12,260 INFO Found 0 unread messages
+2026-09-08 04:36:12,260 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:36:22,253 INFO Found 0 unread messages
+2026-09-08 04:36:22,253 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:36:32,107 INFO Found 0 unread messages
+2026-09-08 04:36:32,107 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:36:42,099 INFO Found 0 unread messages
+2026-09-08 04:36:42,099 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:36:52,230 INFO Found 0 unread messages
+2026-09-08 04:36:52,230 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:37:02,346 INFO Found 0 unread messages
+2026-09-08 04:37:02,346 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:37:12,105 INFO Found 0 unread messages
+2026-09-08 04:37:12,105 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:37:22,228 INFO Found 0 unread messages
+2026-09-08 04:37:22,228 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:38:13,338 INFO Found 0 unread messages
+2026-09-08 04:38:13,339 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:38:23,287 INFO Found 0 unread messages
+2026-09-08 04:38:23,287 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:38:33,441 INFO Found 0 unread messages
+2026-09-08 04:38:33,441 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:38:43,349 INFO Found 0 unread messages
+2026-09-08 04:38:43,350 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:38:53,344 INFO Found 1 unread messages
+2026-09-08 04:38:53,346 INFO Email from roybishal200189@gmail.com: Is Inquiry=False, Reasons=['No required inquiry patterns found']
+2026-09-08 04:38:53,651 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 04:39:03,271 INFO Found 0 unread messages
+2026-09-08 04:39:03,271 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:39:13,436 INFO Found 0 unread messages
+2026-09-08 04:39:13,437 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:39:23,393 INFO Found 0 unread messages
+2026-09-08 04:39:23,393 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:39:33,296 INFO Found 0 unread messages
+2026-09-08 04:39:33,296 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:39:43,316 INFO Found 0 unread messages
+2026-09-08 04:39:43,316 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:39:53,299 INFO Found 0 unread messages
+2026-09-08 04:39:53,299 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:40:03,206 INFO Found 0 unread messages
+2026-09-08 04:40:03,206 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:40:13,345 INFO Found 0 unread messages
+2026-09-08 04:40:13,345 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:40:23,148 INFO Found 0 unread messages
+2026-09-08 04:40:23,149 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:40:33,235 INFO Found 0 unread messages
+2026-09-08 04:40:33,235 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:40:43,454 INFO Found 0 unread messages
+2026-09-08 04:40:43,454 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:40:53,303 INFO Found 0 unread messages
+2026-09-08 04:40:53,303 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:41:03,180 INFO Found 0 unread messages
+2026-09-08 04:41:03,180 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:41:13,508 INFO Found 0 unread messages
+2026-09-08 04:41:13,508 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:41:23,412 INFO Found 0 unread messages
+2026-09-08 04:41:23,412 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:41:33,496 INFO Found 0 unread messages
+2026-09-08 04:41:33,496 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:41:43,344 INFO Found 0 unread messages
+2026-09-08 04:41:43,344 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:41:53,319 INFO Found 0 unread messages
+2026-09-08 04:41:53,319 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:42:03,361 INFO Found 0 unread messages
+2026-09-08 04:42:03,361 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:42:13,271 INFO Found 0 unread messages
+2026-09-08 04:42:13,272 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:42:23,203 INFO Found 0 unread messages
+2026-09-08 04:42:23,203 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:42:33,322 INFO Found 0 unread messages
+2026-09-08 04:42:33,322 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:42:43,352 INFO Found 0 unread messages
+2026-09-08 04:42:43,352 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:42:53,281 INFO Found 0 unread messages
+2026-09-08 04:42:53,281 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:43:03,254 INFO Found 0 unread messages
+2026-09-08 04:43:03,254 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:43:13,398 INFO Found 0 unread messages
+2026-09-08 04:43:13,398 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:43:23,345 INFO Found 0 unread messages
+2026-09-08 04:43:23,346 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:43:33,162 INFO Found 0 unread messages
+2026-09-08 04:43:33,162 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:43:43,198 INFO Found 0 unread messages
+2026-09-08 04:43:43,198 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:43:53,292 INFO Found 0 unread messages
+2026-09-08 04:43:53,292 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:44:03,591 INFO Found 0 unread messages
+2026-09-08 04:44:03,591 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:44:13,301 INFO Found 0 unread messages
+2026-09-08 04:44:13,301 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:44:23,228 INFO Found 0 unread messages
+2026-09-08 04:44:23,228 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:44:33,370 INFO Found 0 unread messages
+2026-09-08 04:44:33,370 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:44:43,162 INFO Found 0 unread messages
+2026-09-08 04:44:43,162 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:44:53,290 INFO Found 0 unread messages
+2026-09-08 04:44:53,290 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:45:03,310 INFO Found 0 unread messages
+2026-09-08 04:45:03,310 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:45:13,154 INFO Found 0 unread messages
+2026-09-08 04:45:13,154 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:45:23,322 INFO Found 0 unread messages
+2026-09-08 04:45:23,323 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:45:33,270 INFO Found 0 unread messages
+2026-09-08 04:45:33,270 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:45:43,375 INFO Found 0 unread messages
+2026-09-08 04:45:43,375 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:45:53,259 INFO Found 0 unread messages
+2026-09-08 04:45:53,259 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:46:03,217 INFO Found 0 unread messages
+2026-09-08 04:46:03,217 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:46:13,529 INFO Found 0 unread messages
+2026-09-08 04:46:13,529 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:46:23,246 INFO Found 0 unread messages
+2026-09-08 04:46:23,246 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:46:33,401 INFO Found 0 unread messages
+2026-09-08 04:46:33,401 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:46:43,448 INFO Found 0 unread messages
+2026-09-08 04:46:43,448 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:46:53,302 INFO Found 0 unread messages
+2026-09-08 04:46:53,302 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:47:03,367 INFO Found 0 unread messages
+2026-09-08 04:47:03,367 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:47:13,330 INFO Found 0 unread messages
+2026-09-08 04:47:13,330 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:47:23,408 INFO Found 0 unread messages
+2026-09-08 04:47:23,408 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:47:33,203 INFO Found 0 unread messages
+2026-09-08 04:47:33,203 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:47:43,216 INFO Found 0 unread messages
+2026-09-08 04:47:43,216 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:47:53,373 INFO Found 0 unread messages
+2026-09-08 04:47:53,373 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:48:03,389 INFO Found 0 unread messages
+2026-09-08 04:48:03,389 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:48:13,300 INFO Found 0 unread messages
+2026-09-08 04:48:13,300 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:48:24,863 INFO Found 0 unread messages
+2026-09-08 04:48:24,863 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:48:34,891 INFO Found 0 unread messages
+2026-09-08 04:48:34,891 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:48:44,958 INFO Found 0 unread messages
+2026-09-08 04:48:44,958 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:48:55,099 INFO Found 0 unread messages
+2026-09-08 04:48:55,099 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:49:04,855 INFO Found 0 unread messages
+2026-09-08 04:49:04,855 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:49:14,812 INFO Found 0 unread messages
+2026-09-08 04:49:14,812 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:49:24,816 INFO Found 0 unread messages
+2026-09-08 04:49:24,816 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:49:34,885 INFO Found 1 unread messages
+2026-09-08 04:49:34,888 INFO Email from roybishal200189@gmail.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 04:49:35,125 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 04:49:44,887 INFO Found 0 unread messages
+2026-09-08 04:49:44,887 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:49:55,005 INFO Found 0 unread messages
+2026-09-08 04:49:55,005 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:50:04,921 INFO Found 0 unread messages
+2026-09-08 04:50:04,921 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:50:15,160 INFO Found 0 unread messages
+2026-09-08 04:50:15,160 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:50:24,915 INFO Found 1 unread messages
+2026-09-08 04:50:24,915 INFO Email from roybishal200189@gmail.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 04:50:25,056 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 04:50:34,919 INFO Found 0 unread messages
+2026-09-08 04:50:34,919 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:50:45,057 INFO Found 0 unread messages
+2026-09-08 04:50:45,057 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:50:54,957 INFO Found 0 unread messages
+2026-09-08 04:50:54,957 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:51:05,020 INFO Found 0 unread messages
+2026-09-08 04:51:05,030 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:51:15,112 INFO Found 0 unread messages
+2026-09-08 04:51:15,112 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:51:24,887 INFO Found 0 unread messages
+2026-09-08 04:51:24,887 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:51:34,986 INFO Found 1 unread messages
+2026-09-08 04:51:34,986 INFO Email from sayanroy8942@gmail.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 04:51:35,134 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 04:51:44,857 INFO Found 0 unread messages
+2026-09-08 04:51:44,857 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:51:54,885 INFO Found 0 unread messages
+2026-09-08 04:51:54,885 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:52:04,838 INFO Found 0 unread messages
+2026-09-08 04:52:04,838 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:52:14,784 INFO Found 0 unread messages
+2026-09-08 04:52:14,784 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:52:24,978 INFO Found 0 unread messages
+2026-09-08 04:52:24,978 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:52:34,983 INFO Found 0 unread messages
+2026-09-08 04:52:34,983 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:52:45,036 INFO Found 0 unread messages
+2026-09-08 04:52:45,036 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:52:54,986 INFO Found 1 unread messages
+2026-09-08 04:52:54,986 INFO Email from sayanroy8942@gmail.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 04:52:55,137 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 04:53:05,035 INFO Found 0 unread messages
+2026-09-08 04:53:05,035 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:53:15,119 INFO Found 0 unread messages
+2026-09-08 04:53:15,119 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:53:24,890 INFO Found 0 unread messages
+2026-09-08 04:53:24,890 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:53:35,068 INFO Found 0 unread messages
+2026-09-08 04:53:35,068 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:53:44,905 INFO Found 0 unread messages
+2026-09-08 04:53:44,905 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:53:54,907 INFO Found 0 unread messages
+2026-09-08 04:53:54,907 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:54:05,078 INFO Found 0 unread messages
+2026-09-08 04:54:05,078 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:54:14,865 INFO Found 0 unread messages
+2026-09-08 04:54:14,865 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:54:25,169 INFO Found 0 unread messages
+2026-09-08 04:54:25,169 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:54:35,085 INFO Found 0 unread messages
+2026-09-08 04:54:35,085 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:54:45,097 INFO Found 0 unread messages
+2026-09-08 04:54:45,097 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:54:55,074 INFO Found 0 unread messages
+2026-09-08 04:54:55,076 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:55:04,883 INFO Found 0 unread messages
+2026-09-08 04:55:04,883 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:55:15,190 INFO Found 0 unread messages
+2026-09-08 04:55:15,190 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:55:24,974 INFO Found 0 unread messages
+2026-09-08 04:55:24,974 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:55:35,053 INFO Found 0 unread messages
+2026-09-08 04:55:35,053 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:55:45,108 INFO Found 1 unread messages
+2026-09-08 04:55:45,108 INFO Email from sayanroy8942@gmail.com: Is Inquiry=True, Reasons=['Multiple products (4) with quantities']
+2026-09-08 04:55:45,466 INFO \u2705 Sent auto-reply to genuine inquiry from sayanroy8942@gmail.com
+2026-09-08 04:55:45,610 INFO Processed: 1, Inquiries: 1, Auto-replies sent: 1, Ignored: 0, Errors: 0
+2026-09-08 04:55:55,141 INFO Found 0 unread messages
+2026-09-08 04:55:55,141 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:56:05,139 INFO Found 0 unread messages
+2026-09-08 04:56:05,139 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:56:15,133 INFO Found 0 unread messages
+2026-09-08 04:56:15,133 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:56:25,009 INFO Found 0 unread messages
+2026-09-08 04:56:25,009 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:56:34,986 INFO Found 0 unread messages
+2026-09-08 04:56:34,986 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:56:45,119 INFO Found 1 unread messages
+2026-09-08 04:56:45,119 INFO Email from sayanroy8942@gmail.com: Is Inquiry=True, Reasons=['Multiple products (4) with quantities']
+2026-09-08 04:56:45,501 INFO \u2705 Sent auto-reply to genuine inquiry from sayanroy8942@gmail.com
+2026-09-08 04:56:45,637 INFO Processed: 1, Inquiries: 1, Auto-replies sent: 1, Ignored: 0, Errors: 0
+2026-09-08 04:56:55,012 INFO Found 0 unread messages
+2026-09-08 04:56:55,012 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:57:05,051 INFO Found 0 unread messages
+2026-09-08 04:57:05,051 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:57:15,300 INFO Found 0 unread messages
+2026-09-08 04:57:15,300 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:57:25,147 INFO Found 0 unread messages
+2026-09-08 04:57:25,147 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:57:35,239 INFO Found 0 unread messages
+2026-09-08 04:57:35,239 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:57:45,287 INFO Found 0 unread messages
+2026-09-08 04:57:45,287 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:57:55,189 INFO Found 0 unread messages
+2026-09-08 04:57:55,189 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:58:05,116 INFO Found 0 unread messages
+2026-09-08 04:58:05,116 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:58:15,155 INFO Found 0 unread messages
+2026-09-08 04:58:15,155 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:58:25,133 INFO Found 0 unread messages
+2026-09-08 04:58:25,133 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:58:35,077 INFO Found 0 unread messages
+2026-09-08 04:58:35,077 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:58:45,237 INFO Found 0 unread messages
+2026-09-08 04:58:45,237 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:58:55,141 INFO Found 0 unread messages
+2026-09-08 04:58:55,141 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:59:05,126 INFO Found 0 unread messages
+2026-09-08 04:59:05,126 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:59:15,092 INFO Found 0 unread messages
+2026-09-08 04:59:15,092 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:59:25,076 INFO Found 0 unread messages
+2026-09-08 04:59:25,076 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:59:35,103 INFO Found 0 unread messages
+2026-09-08 04:59:35,103 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:59:45,145 INFO Found 0 unread messages
+2026-09-08 04:59:45,145 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 04:59:55,210 INFO Found 0 unread messages
+2026-09-08 04:59:55,210 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:00:05,183 INFO Found 0 unread messages
+2026-09-08 05:00:05,183 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:00:15,305 INFO Found 0 unread messages
+2026-09-08 05:00:15,305 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:00:25,177 INFO Found 0 unread messages
+2026-09-08 05:00:25,177 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:00:35,210 INFO Found 0 unread messages
+2026-09-08 05:00:35,210 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:00:45,288 INFO Found 0 unread messages
+2026-09-08 05:00:45,288 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:00:55,202 INFO Found 0 unread messages
+2026-09-08 05:00:55,202 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:01:05,215 INFO Found 0 unread messages
+2026-09-08 05:01:05,215 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:01:15,212 INFO Found 0 unread messages
+2026-09-08 05:01:15,212 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:01:25,233 INFO Found 0 unread messages
+2026-09-08 05:01:25,233 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:01:35,338 INFO Found 0 unread messages
+2026-09-08 05:01:35,338 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:01:45,246 INFO Found 0 unread messages
+2026-09-08 05:01:45,246 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:01:55,296 INFO Found 0 unread messages
+2026-09-08 05:01:55,296 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:02:05,290 INFO Found 0 unread messages
+2026-09-08 05:02:05,292 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:02:15,239 INFO Found 0 unread messages
+2026-09-08 05:02:15,239 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:02:25,228 INFO Found 0 unread messages
+2026-09-08 05:02:25,228 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:02:35,272 INFO Found 1 unread messages
+2026-09-08 05:02:35,277 INFO Email from sayanroy8942@gmail.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 05:02:35,438 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 05:02:45,342 INFO Found 0 unread messages
+2026-09-08 05:02:45,342 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:02:55,369 INFO Found 0 unread messages
+2026-09-08 05:02:55,369 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:03:05,252 INFO Found 0 unread messages
+2026-09-08 05:03:05,252 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:03:15,263 INFO Found 0 unread messages
+2026-09-08 05:03:15,263 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:03:25,314 INFO Found 0 unread messages
+2026-09-08 05:03:25,314 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:03:35,270 INFO Found 0 unread messages
+2026-09-08 05:03:35,270 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:03:45,342 INFO Found 0 unread messages
+2026-09-08 05:03:45,342 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:03:55,288 INFO Found 0 unread messages
+2026-09-08 05:03:55,288 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:04:05,258 INFO Found 0 unread messages
+2026-09-08 05:04:05,258 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:04:15,278 INFO Found 0 unread messages
+2026-09-08 05:04:15,278 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:04:25,225 INFO Found 0 unread messages
+2026-09-08 05:04:25,225 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:04:35,275 INFO Found 0 unread messages
+2026-09-08 05:04:35,275 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:04:45,311 INFO Found 0 unread messages
+2026-09-08 05:04:45,311 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:04:55,295 INFO Found 0 unread messages
+2026-09-08 05:04:55,295 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:05:05,249 INFO Found 0 unread messages
+2026-09-08 05:05:05,249 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:05:15,291 INFO Found 0 unread messages
+2026-09-08 05:05:15,291 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:05:25,405 INFO Found 0 unread messages
+2026-09-08 05:05:25,405 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:05:35,332 INFO Found 0 unread messages
+2026-09-08 05:05:35,332 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:05:45,277 INFO Found 0 unread messages
+2026-09-08 05:05:45,277 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:05:55,341 INFO Found 0 unread messages
+2026-09-08 05:05:55,341 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:06:05,417 INFO Found 0 unread messages
+2026-09-08 05:06:05,417 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:06:15,359 INFO Found 0 unread messages
+2026-09-08 05:06:15,359 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:06:25,299 INFO Found 0 unread messages
+2026-09-08 05:06:25,299 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:06:35,345 INFO Found 0 unread messages
+2026-09-08 05:06:35,345 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:06:45,352 INFO Found 0 unread messages
+2026-09-08 05:06:45,352 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:06:55,306 INFO Found 0 unread messages
+2026-09-08 05:06:55,306 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:07:05,392 INFO Found 0 unread messages
+2026-09-08 05:07:05,392 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:07:15,430 INFO Found 0 unread messages
+2026-09-08 05:07:15,430 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:07:25,402 INFO Found 0 unread messages
+2026-09-08 05:07:25,402 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:07:35,327 INFO Found 0 unread messages
+2026-09-08 05:07:35,327 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:07:45,442 INFO Found 0 unread messages
+2026-09-08 05:07:45,442 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:07:55,365 INFO Found 0 unread messages
+2026-09-08 05:07:55,365 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:08:05,492 INFO Found 0 unread messages
+2026-09-08 05:08:05,492 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:08:15,469 INFO Found 0 unread messages
+2026-09-08 05:08:15,469 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:08:25,339 INFO Found 0 unread messages
+2026-09-08 05:08:25,339 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:08:35,379 INFO Found 0 unread messages
+2026-09-08 05:08:35,379 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:08:45,384 INFO Found 0 unread messages
+2026-09-08 05:08:45,384 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:08:55,406 INFO Found 0 unread messages
+2026-09-08 05:08:55,406 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:09:05,417 INFO Found 0 unread messages
+2026-09-08 05:09:05,417 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:09:15,361 INFO Found 0 unread messages
+2026-09-08 05:09:15,361 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:09:25,458 INFO Found 0 unread messages
+2026-09-08 05:09:25,458 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:09:35,452 INFO Found 0 unread messages
+2026-09-08 05:09:35,452 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:09:45,423 INFO Found 0 unread messages
+2026-09-08 05:09:45,423 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:09:55,429 INFO Found 0 unread messages
+2026-09-08 05:09:55,429 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:10:05,360 INFO Found 0 unread messages
+2026-09-08 05:10:05,360 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:10:15,409 INFO Found 0 unread messages
+2026-09-08 05:10:15,409 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:10:25,389 INFO Found 0 unread messages
+2026-09-08 05:10:25,389 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:10:35,412 INFO Found 0 unread messages
+2026-09-08 05:10:35,412 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:10:45,349 INFO Found 0 unread messages
+2026-09-08 05:10:45,349 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:10:55,424 INFO Found 0 unread messages
+2026-09-08 05:10:55,424 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:11:05,510 INFO Found 0 unread messages
+2026-09-08 05:11:05,510 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:11:15,374 INFO Found 0 unread messages
+2026-09-08 05:11:15,374 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:11:25,529 INFO Found 0 unread messages
+2026-09-08 05:11:25,529 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:11:35,485 INFO Found 0 unread messages
+2026-09-08 05:11:35,485 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:11:45,583 INFO Found 0 unread messages
+2026-09-08 05:11:45,583 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:11:55,480 INFO Found 0 unread messages
+2026-09-08 05:11:55,480 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:12:05,779 INFO Found 0 unread messages
+2026-09-08 05:12:05,779 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:12:15,549 INFO Found 0 unread messages
+2026-09-08 05:12:15,549 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:12:25,382 INFO Found 0 unread messages
+2026-09-08 05:12:25,392 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:12:35,426 INFO Found 0 unread messages
+2026-09-08 05:12:35,426 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:12:45,467 INFO Found 0 unread messages
+2026-09-08 05:12:45,467 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:12:55,425 INFO Found 0 unread messages
+2026-09-08 05:12:55,425 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:13:05,388 INFO Found 0 unread messages
+2026-09-08 05:13:05,388 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:13:15,410 INFO Found 0 unread messages
+2026-09-08 05:13:15,410 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:13:26,152 INFO Found 0 unread messages
+2026-09-08 05:13:26,152 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:13:35,472 INFO Found 0 unread messages
+2026-09-08 05:13:35,472 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:13:45,421 INFO Found 0 unread messages
+2026-09-08 05:13:45,421 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:13:55,362 INFO Found 0 unread messages
+2026-09-08 05:13:55,362 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:14:05,412 INFO Found 0 unread messages
+2026-09-08 05:14:05,412 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:14:15,383 INFO Found 0 unread messages
+2026-09-08 05:14:15,383 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:14:25,415 INFO Found 0 unread messages
+2026-09-08 05:14:25,415 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:14:35,467 INFO Found 0 unread messages
+2026-09-08 05:14:35,468 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:14:45,500 INFO Found 0 unread messages
+2026-09-08 05:14:45,500 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:14:55,407 INFO Found 0 unread messages
+2026-09-08 05:14:55,409 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:15:05,666 INFO Found 0 unread messages
+2026-09-08 05:15:05,666 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:15:15,530 INFO Found 0 unread messages
+2026-09-08 05:15:15,530 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:15:25,508 INFO Found 0 unread messages
+2026-09-08 05:15:25,508 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:15:35,394 INFO Found 0 unread messages
+2026-09-08 05:15:35,394 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:15:45,503 INFO Found 0 unread messages
+2026-09-08 05:15:45,503 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:15:55,545 INFO Found 0 unread messages
+2026-09-08 05:15:55,545 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:16:05,376 INFO Found 0 unread messages
+2026-09-08 05:16:05,376 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:16:15,391 INFO Found 0 unread messages
+2026-09-08 05:16:15,391 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:16:25,638 INFO Found 0 unread messages
+2026-09-08 05:16:25,638 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:16:35,515 INFO Found 0 unread messages
+2026-09-08 05:16:35,515 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:16:45,485 INFO Found 0 unread messages
+2026-09-08 05:16:45,485 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:16:55,516 INFO Found 0 unread messages
+2026-09-08 05:16:55,516 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:17:05,613 INFO Found 0 unread messages
+2026-09-08 05:17:05,613 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:17:15,660 INFO Found 0 unread messages
+2026-09-08 05:17:15,660 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:17:25,415 INFO Found 0 unread messages
+2026-09-08 05:17:25,415 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:17:35,834 INFO Found 0 unread messages
+2026-09-08 05:17:35,834 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:17:45,517 INFO Found 0 unread messages
+2026-09-08 05:17:45,517 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:17:55,573 INFO Found 0 unread messages
+2026-09-08 05:17:55,573 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:18:05,615 INFO Found 0 unread messages
+2026-09-08 05:18:05,615 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:18:15,580 INFO Found 0 unread messages
+2026-09-08 05:18:15,580 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:18:25,533 INFO Found 0 unread messages
+2026-09-08 05:18:25,533 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:18:35,709 INFO Found 0 unread messages
+2026-09-08 05:18:35,709 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:18:45,550 INFO Found 0 unread messages
+2026-09-08 05:18:45,550 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:18:55,563 INFO Found 0 unread messages
+2026-09-08 05:18:55,563 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:19:05,559 INFO Found 0 unread messages
+2026-09-08 05:19:05,559 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:19:15,675 INFO Found 0 unread messages
+2026-09-08 05:19:15,675 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:19:25,612 INFO Found 0 unread messages
+2026-09-08 05:19:25,612 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:19:35,555 INFO Found 0 unread messages
+2026-09-08 05:19:35,555 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:19:45,528 INFO Found 0 unread messages
+2026-09-08 05:19:45,528 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:19:55,523 INFO Found 0 unread messages
+2026-09-08 05:19:55,523 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:20:05,567 INFO Found 0 unread messages
+2026-09-08 05:20:05,567 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:20:15,669 INFO Found 0 unread messages
+2026-09-08 05:20:15,669 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:20:25,639 INFO Found 0 unread messages
+2026-09-08 05:20:25,639 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:20:35,565 INFO Found 0 unread messages
+2026-09-08 05:20:35,565 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:20:45,601 INFO Found 0 unread messages
+2026-09-08 05:20:45,601 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:20:55,600 INFO Found 0 unread messages
+2026-09-08 05:20:55,600 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:21:05,615 INFO Found 0 unread messages
+2026-09-08 05:21:05,615 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:21:15,694 INFO Found 0 unread messages
+2026-09-08 05:21:15,694 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:21:25,569 INFO Found 0 unread messages
+2026-09-08 05:21:25,569 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:21:35,796 INFO Found 0 unread messages
+2026-09-08 05:21:35,796 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:21:45,850 INFO Found 0 unread messages
+2026-09-08 05:21:45,851 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:21:55,615 INFO Found 0 unread messages
+2026-09-08 05:21:55,615 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:22:05,599 INFO Found 0 unread messages
+2026-09-08 05:22:05,599 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:22:15,654 INFO Found 0 unread messages
+2026-09-08 05:22:15,655 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:22:25,607 INFO Found 0 unread messages
+2026-09-08 05:22:25,607 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:22:35,589 INFO Found 0 unread messages
+2026-09-08 05:22:35,589 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:22:45,790 INFO Found 0 unread messages
+2026-09-08 05:22:45,790 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:22:55,792 INFO Found 0 unread messages
+2026-09-08 05:22:55,792 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:23:05,658 INFO Found 0 unread messages
+2026-09-08 05:23:05,658 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:23:15,625 INFO Found 0 unread messages
+2026-09-08 05:23:15,625 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:23:25,675 INFO Found 0 unread messages
+2026-09-08 05:23:25,675 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:23:35,553 INFO Found 0 unread messages
+2026-09-08 05:23:35,553 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:23:45,634 INFO Found 0 unread messages
+2026-09-08 05:23:45,634 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:23:55,596 INFO Found 0 unread messages
+2026-09-08 05:23:55,596 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:24:05,749 INFO Found 0 unread messages
+2026-09-08 05:24:05,749 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:24:15,699 INFO Found 0 unread messages
+2026-09-08 05:24:15,699 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:24:25,559 INFO Found 0 unread messages
+2026-09-08 05:24:25,559 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:24:35,684 INFO Found 0 unread messages
+2026-09-08 05:24:35,684 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:24:45,693 INFO Found 0 unread messages
+2026-09-08 05:24:45,693 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:24:55,666 INFO Found 0 unread messages
+2026-09-08 05:24:55,666 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:25:05,573 INFO Found 0 unread messages
+2026-09-08 05:25:05,573 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:25:15,691 INFO Found 0 unread messages
+2026-09-08 05:25:15,691 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:25:25,680 INFO Found 0 unread messages
+2026-09-08 05:25:25,680 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:25:35,802 INFO Found 0 unread messages
+2026-09-08 05:25:35,802 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:25:45,809 INFO Found 0 unread messages
+2026-09-08 05:25:45,809 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:25:55,632 INFO Found 0 unread messages
+2026-09-08 05:25:55,632 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:26:05,680 INFO Found 0 unread messages
+2026-09-08 05:26:05,680 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:26:15,712 INFO Found 0 unread messages
+2026-09-08 05:26:15,712 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:26:25,764 INFO Found 0 unread messages
+2026-09-08 05:26:25,764 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:26:35,673 INFO Found 0 unread messages
+2026-09-08 05:26:35,673 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:26:45,788 INFO Found 0 unread messages
+2026-09-08 05:26:45,788 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:26:55,656 INFO Found 0 unread messages
+2026-09-08 05:26:55,656 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:27:05,756 INFO Found 0 unread messages
+2026-09-08 05:27:05,756 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:27:15,751 INFO Found 0 unread messages
+2026-09-08 05:27:15,751 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:27:25,691 INFO Found 0 unread messages
+2026-09-08 05:27:25,691 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:27:35,668 INFO Found 0 unread messages
+2026-09-08 05:27:35,669 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:27:45,639 INFO Found 0 unread messages
+2026-09-08 05:27:45,639 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:27:55,805 INFO Found 0 unread messages
+2026-09-08 05:27:55,805 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:28:05,710 INFO Found 0 unread messages
+2026-09-08 05:28:05,710 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:28:15,811 INFO Found 0 unread messages
+2026-09-08 05:28:15,811 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:28:25,740 INFO Found 0 unread messages
+2026-09-08 05:28:25,740 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:28:36,010 INFO Found 0 unread messages
+2026-09-08 05:28:36,010 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:28:45,732 INFO Found 0 unread messages
+2026-09-08 05:28:45,732 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:28:55,725 INFO Found 0 unread messages
+2026-09-08 05:28:55,725 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:29:05,874 INFO Found 0 unread messages
+2026-09-08 05:29:05,874 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:29:15,784 INFO Found 0 unread messages
+2026-09-08 05:29:15,784 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:29:25,925 INFO Found 0 unread messages
+2026-09-08 05:29:25,925 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:29:35,767 INFO Found 0 unread messages
+2026-09-08 05:29:35,767 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:29:45,756 INFO Found 0 unread messages
+2026-09-08 05:29:45,756 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:29:55,855 INFO Found 0 unread messages
+2026-09-08 05:29:55,855 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:30:05,778 INFO Found 0 unread messages
+2026-09-08 05:30:05,778 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:30:15,757 INFO Found 0 unread messages
+2026-09-08 05:30:15,757 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:30:25,834 INFO Found 0 unread messages
+2026-09-08 05:30:25,834 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:30:35,754 INFO Found 0 unread messages
+2026-09-08 05:30:35,754 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:30:45,785 INFO Found 0 unread messages
+2026-09-08 05:30:45,785 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:30:55,714 INFO Found 0 unread messages
+2026-09-08 05:30:55,714 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:31:05,765 INFO Found 0 unread messages
+2026-09-08 05:31:05,765 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:31:15,974 INFO Found 0 unread messages
+2026-09-08 05:31:15,974 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:31:25,868 INFO Found 0 unread messages
+2026-09-08 05:31:25,868 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:31:35,845 INFO Found 0 unread messages
+2026-09-08 05:31:35,845 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:31:45,922 INFO Found 0 unread messages
+2026-09-08 05:31:45,922 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:31:55,821 INFO Found 1 unread messages
+2026-09-08 05:31:55,823 INFO Email from kk@zohocorp.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 05:31:56,012 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 05:32:05,773 INFO Found 0 unread messages
+2026-09-08 05:32:05,773 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:32:15,858 INFO Found 0 unread messages
+2026-09-08 05:32:15,858 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:32:25,781 INFO Found 0 unread messages
+2026-09-08 05:32:25,781 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:32:35,873 INFO Found 0 unread messages
+2026-09-08 05:32:35,873 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:32:45,870 INFO Found 1 unread messages
+2026-09-08 05:32:45,878 INFO Email from MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@araspl.com: Is Inquiry=False, Reasons=['Contains spam keyword: sex']
+2026-09-08 05:32:46,050 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 05:32:55,814 INFO Found 0 unread messages
+2026-09-08 05:32:55,814 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:33:05,700 INFO Found 0 unread messages
+2026-09-08 05:33:05,700 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:33:15,874 INFO Found 0 unread messages
+2026-09-08 05:33:15,874 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:33:25,865 INFO Found 0 unread messages
+2026-09-08 05:33:25,865 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:33:35,985 INFO Found 0 unread messages
+2026-09-08 05:33:35,985 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:33:45,853 INFO Found 0 unread messages
+2026-09-08 05:33:45,853 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:33:55,736 INFO Found 0 unread messages
+2026-09-08 05:33:55,736 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:34:05,903 INFO Found 0 unread messages
+2026-09-08 05:34:05,903 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:34:15,848 INFO Found 0 unread messages
+2026-09-08 05:34:15,848 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:34:25,852 INFO Found 0 unread messages
+2026-09-08 05:34:25,852 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:34:35,856 INFO Found 0 unread messages
+2026-09-08 05:34:35,856 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:34:45,899 INFO Found 0 unread messages
+2026-09-08 05:34:45,899 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:34:55,944 INFO Found 0 unread messages
+2026-09-08 05:34:55,944 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:35:05,806 INFO Found 0 unread messages
+2026-09-08 05:35:05,806 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:35:15,862 INFO Found 0 unread messages
+2026-09-08 05:35:15,862 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:35:25,861 INFO Found 0 unread messages
+2026-09-08 05:35:25,861 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:35:35,828 INFO Found 0 unread messages
+2026-09-08 05:35:35,828 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:35:46,036 INFO Found 0 unread messages
+2026-09-08 05:35:46,036 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:35:55,915 INFO Found 0 unread messages
+2026-09-08 05:35:55,915 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:36:06,050 INFO Found 0 unread messages
+2026-09-08 05:36:06,050 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:36:15,912 INFO Found 0 unread messages
+2026-09-08 05:36:15,912 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:36:25,862 INFO Found 0 unread messages
+2026-09-08 05:36:25,862 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:36:35,879 INFO Found 0 unread messages
+2026-09-08 05:36:35,879 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:36:45,758 INFO Found 0 unread messages
+2026-09-08 05:36:45,758 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:36:55,913 INFO Found 0 unread messages
+2026-09-08 05:36:55,913 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:37:05,966 INFO Found 0 unread messages
+2026-09-08 05:37:05,966 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:37:15,815 INFO Found 0 unread messages
+2026-09-08 05:37:15,815 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:37:25,917 INFO Found 0 unread messages
+2026-09-08 05:37:25,917 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:37:35,884 INFO Found 0 unread messages
+2026-09-08 05:37:35,884 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:37:45,961 INFO Found 0 unread messages
+2026-09-08 05:37:45,961 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:37:55,943 INFO Found 0 unread messages
+2026-09-08 05:37:55,943 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:38:06,003 INFO Found 0 unread messages
+2026-09-08 05:38:06,003 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:38:15,991 INFO Found 1 unread messages
+2026-09-08 05:38:16,001 INFO Email from sayanroy8942@gmail.com: Is Inquiry=True, Reasons=['Multiple products (3) with quantities']
+2026-09-08 05:38:16,415 INFO \u2705 Sent auto-reply to genuine inquiry from sayanroy8942@gmail.com
+2026-09-08 05:38:16,565 INFO Processed: 1, Inquiries: 1, Auto-replies sent: 1, Ignored: 0, Errors: 0
+2026-09-08 05:38:25,995 INFO Found 0 unread messages
+2026-09-08 05:38:25,995 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:38:36,013 INFO Found 0 unread messages
+2026-09-08 05:38:36,013 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:38:45,860 INFO Found 0 unread messages
+2026-09-08 05:38:45,860 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:38:56,026 INFO Found 0 unread messages
+2026-09-08 05:38:56,026 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:39:06,098 INFO Found 0 unread messages
+2026-09-08 05:39:06,098 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:39:15,933 INFO Found 0 unread messages
+2026-09-08 05:39:15,933 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:39:25,972 INFO Found 0 unread messages
+2026-09-08 05:39:25,972 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:39:36,104 INFO Found 0 unread messages
+2026-09-08 05:39:36,104 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:39:46,000 INFO Found 0 unread messages
+2026-09-08 05:39:46,000 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:39:56,095 INFO Found 0 unread messages
+2026-09-08 05:39:56,095 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:40:06,481 INFO Found 0 unread messages
+2026-09-08 05:40:06,481 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:40:16,056 INFO Found 0 unread messages
+2026-09-08 05:40:16,056 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:40:26,164 INFO Found 0 unread messages
+2026-09-08 05:40:26,164 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:40:36,139 INFO Found 0 unread messages
+2026-09-08 05:40:36,139 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:40:46,045 INFO Found 0 unread messages
+2026-09-08 05:40:46,045 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:40:56,038 INFO Found 0 unread messages
+2026-09-08 05:40:56,038 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:41:06,079 INFO Found 0 unread messages
+2026-09-08 05:41:06,079 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:41:16,089 INFO Found 0 unread messages
+2026-09-08 05:41:16,089 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:41:26,171 INFO Found 0 unread messages
+2026-09-08 05:41:26,171 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:41:36,072 INFO Found 0 unread messages
+2026-09-08 05:41:36,072 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:41:46,274 INFO Found 0 unread messages
+2026-09-08 05:41:46,274 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:41:56,099 INFO Found 0 unread messages
+2026-09-08 05:41:56,099 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:42:06,054 INFO Found 0 unread messages
+2026-09-08 05:42:06,054 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:42:16,160 INFO Found 0 unread messages
+2026-09-08 05:42:16,160 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:42:26,210 INFO Found 0 unread messages
+2026-09-08 05:42:26,210 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:42:36,154 INFO Found 0 unread messages
+2026-09-08 05:42:36,154 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:42:46,160 INFO Found 0 unread messages
+2026-09-08 05:42:46,160 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:42:56,078 INFO Found 0 unread messages
+2026-09-08 05:42:56,078 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:43:06,290 INFO Found 0 unread messages
+2026-09-08 05:43:06,290 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:43:16,271 INFO Found 0 unread messages
+2026-09-08 05:43:16,271 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:43:26,203 INFO Found 0 unread messages
+2026-09-08 05:43:26,203 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:43:36,339 INFO Found 0 unread messages
+2026-09-08 05:43:36,339 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:43:46,240 INFO Found 0 unread messages
+2026-09-08 05:43:46,240 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:43:56,256 INFO Found 0 unread messages
+2026-09-08 05:43:56,256 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:44:06,221 INFO Found 0 unread messages
+2026-09-08 05:44:06,221 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:44:16,144 INFO Found 0 unread messages
+2026-09-08 05:44:16,144 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:44:26,195 INFO Found 0 unread messages
+2026-09-08 05:44:26,195 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:44:36,301 INFO Found 0 unread messages
+2026-09-08 05:44:36,301 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:44:46,275 INFO Found 0 unread messages
+2026-09-08 05:44:46,275 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:44:56,374 INFO Found 0 unread messages
+2026-09-08 05:44:56,374 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:45:06,199 INFO Found 0 unread messages
+2026-09-08 05:45:06,199 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:45:16,221 INFO Found 0 unread messages
+2026-09-08 05:45:16,221 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:45:26,263 INFO Found 0 unread messages
+2026-09-08 05:45:26,263 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:45:36,224 INFO Found 0 unread messages
+2026-09-08 05:45:36,224 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:45:46,214 INFO Found 0 unread messages
+2026-09-08 05:45:46,214 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:45:56,227 INFO Found 0 unread messages
+2026-09-08 05:45:56,227 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:46:06,282 INFO Found 0 unread messages
+2026-09-08 05:46:06,282 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:46:16,202 INFO Found 0 unread messages
+2026-09-08 05:46:16,202 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:46:26,372 INFO Found 0 unread messages
+2026-09-08 05:46:26,372 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:46:36,356 INFO Found 0 unread messages
+2026-09-08 05:46:36,356 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:46:46,386 INFO Found 0 unread messages
+2026-09-08 05:46:46,386 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:46:56,320 INFO Found 0 unread messages
+2026-09-08 05:46:56,320 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:47:06,281 INFO Found 0 unread messages
+2026-09-08 05:47:06,281 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:47:16,264 INFO Found 0 unread messages
+2026-09-08 05:47:16,264 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:47:26,444 INFO Found 0 unread messages
+2026-09-08 05:47:26,444 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:47:36,339 INFO Found 0 unread messages
+2026-09-08 05:47:36,339 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:47:46,492 INFO Found 0 unread messages
+2026-09-08 05:47:46,492 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:47:56,401 INFO Found 0 unread messages
+2026-09-08 05:47:56,401 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:48:06,331 INFO Found 0 unread messages
+2026-09-08 05:48:06,331 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:48:16,442 INFO Found 1 unread messages
+2026-09-08 05:48:16,452 INFO Email from backoffice@araspl.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 05:48:16,632 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 05:48:26,436 INFO Found 0 unread messages
+2026-09-08 05:48:26,436 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:48:36,303 INFO Found 0 unread messages
+2026-09-08 05:48:36,303 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:48:46,694 INFO Found 0 unread messages
+2026-09-08 05:48:46,694 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:48:56,350 INFO Found 0 unread messages
+2026-09-08 05:48:56,350 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:49:06,554 INFO Found 1 unread messages
+2026-09-08 05:49:06,554 INFO Email from backoffice@araspl.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 05:49:06,784 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 05:49:16,368 INFO Found 0 unread messages
+2026-09-08 05:49:16,368 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:49:26,572 INFO Found 0 unread messages
+2026-09-08 05:49:26,572 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:49:36,437 INFO Found 0 unread messages
+2026-09-08 05:49:36,437 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:49:46,343 INFO Found 0 unread messages
+2026-09-08 05:49:46,343 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:49:56,462 INFO Found 0 unread messages
+2026-09-08 05:49:56,462 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:50:06,479 INFO Found 0 unread messages
+2026-09-08 05:50:06,479 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:50:16,433 INFO Found 0 unread messages
+2026-09-08 05:50:16,433 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:50:26,421 INFO Found 0 unread messages
+2026-09-08 05:50:26,421 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:50:36,466 INFO Found 0 unread messages
+2026-09-08 05:50:36,466 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:50:46,305 INFO Found 0 unread messages
+2026-09-08 05:50:46,305 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:50:56,417 INFO Found 0 unread messages
+2026-09-08 05:50:56,417 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:51:06,644 INFO Found 0 unread messages
+2026-09-08 05:51:06,644 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:51:16,363 INFO Found 0 unread messages
+2026-09-08 05:51:16,373 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:51:26,612 INFO Found 0 unread messages
+2026-09-08 05:51:26,612 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:51:36,654 INFO Found 0 unread messages
+2026-09-08 05:51:36,654 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:51:46,540 INFO Found 0 unread messages
+2026-09-08 05:51:46,540 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:51:56,516 INFO Found 0 unread messages
+2026-09-08 05:51:56,516 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:52:06,624 INFO Found 0 unread messages
+2026-09-08 05:52:06,624 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:52:16,662 INFO Found 1 unread messages
+2026-09-08 05:52:16,664 INFO Email from sayanroy8942@gmail.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 05:52:16,873 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 05:52:26,550 INFO Found 0 unread messages
+2026-09-08 05:52:26,550 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:52:36,569 INFO Found 0 unread messages
+2026-09-08 05:52:36,569 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:52:46,692 INFO Found 0 unread messages
+2026-09-08 05:52:46,692 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:52:56,546 INFO Found 0 unread messages
+2026-09-08 05:52:56,546 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:53:06,576 INFO Found 0 unread messages
+2026-09-08 05:53:06,577 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:53:16,677 INFO Found 0 unread messages
+2026-09-08 05:53:16,677 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:53:26,626 INFO Found 0 unread messages
+2026-09-08 05:53:26,626 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:53:36,543 INFO Found 0 unread messages
+2026-09-08 05:53:36,543 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:53:46,437 INFO Found 0 unread messages
+2026-09-08 05:53:46,437 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:53:56,466 INFO Found 0 unread messages
+2026-09-08 05:53:56,466 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:54:06,568 INFO Found 0 unread messages
+2026-09-08 05:54:06,568 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:54:16,603 INFO Found 0 unread messages
+2026-09-08 05:54:16,603 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:54:26,579 INFO Found 0 unread messages
+2026-09-08 05:54:26,579 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:54:36,584 INFO Found 1 unread messages
+2026-09-08 05:54:36,584 INFO Email from sayanroy8942@gmail.com: Is Inquiry=False, Reasons=['Products found but no inquiry language or quantities']
+2026-09-08 05:54:36,787 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 05:54:46,545 INFO Found 0 unread messages
+2026-09-08 05:54:46,545 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:54:56,614 INFO Found 0 unread messages
+2026-09-08 05:54:56,614 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:55:06,604 INFO Found 0 unread messages
+2026-09-08 05:55:06,604 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:55:16,570 INFO Found 0 unread messages
+2026-09-08 05:55:16,570 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:55:26,580 INFO Found 0 unread messages
+2026-09-08 05:55:26,580 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:55:36,643 INFO Found 0 unread messages
+2026-09-08 05:55:36,643 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:55:46,621 INFO Found 0 unread messages
+2026-09-08 05:55:46,621 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:55:56,498 INFO Found 0 unread messages
+2026-09-08 05:55:56,498 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:56:06,524 INFO Found 0 unread messages
+2026-09-08 05:56:06,524 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:56:16,602 INFO Found 0 unread messages
+2026-09-08 05:56:16,602 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:56:26,525 INFO Found 0 unread messages
+2026-09-08 05:56:26,525 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:56:36,510 INFO Found 0 unread messages
+2026-09-08 05:56:36,510 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:56:46,526 INFO Found 0 unread messages
+2026-09-08 05:56:46,526 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:56:56,555 INFO Found 0 unread messages
+2026-09-08 05:56:56,555 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:57:06,589 INFO Found 1 unread messages
+2026-09-08 05:57:06,589 INFO Email from sayanroy8942@gmail.com: Is Inquiry=True, Reasons=['Multiple products (4) with quantities']
+2026-09-08 05:57:07,044 INFO \u2705 Sent auto-reply to genuine inquiry from sayanroy8942@gmail.com
+2026-09-08 05:57:07,229 INFO Processed: 1, Inquiries: 1, Auto-replies sent: 1, Ignored: 0, Errors: 0
+2026-09-08 05:57:16,458 INFO Found 0 unread messages
+2026-09-08 05:57:16,458 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:57:26,512 INFO Found 0 unread messages
+2026-09-08 05:57:26,512 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:57:36,578 INFO Found 0 unread messages
+2026-09-08 05:57:36,578 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:57:46,552 INFO Found 0 unread messages
+2026-09-08 05:57:46,552 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:57:56,576 INFO Found 0 unread messages
+2026-09-08 05:57:56,576 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:58:06,629 INFO Found 0 unread messages
+2026-09-08 05:58:06,629 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:58:16,665 INFO Found 0 unread messages
+2026-09-08 05:58:16,665 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:58:26,574 INFO Found 0 unread messages
+2026-09-08 05:58:26,574 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:58:36,673 INFO Found 0 unread messages
+2026-09-08 05:58:36,673 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:58:46,572 INFO Found 0 unread messages
+2026-09-08 05:58:46,572 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:58:56,688 INFO Found 0 unread messages
+2026-09-08 05:58:56,688 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:59:06,627 INFO Found 0 unread messages
+2026-09-08 05:59:06,627 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:59:16,562 INFO Found 0 unread messages
+2026-09-08 05:59:16,562 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:59:26,586 INFO Found 0 unread messages
+2026-09-08 05:59:26,586 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:59:36,528 INFO Found 0 unread messages
+2026-09-08 05:59:36,528 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:59:46,610 INFO Found 0 unread messages
+2026-09-08 05:59:46,610 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 05:59:56,575 INFO Found 0 unread messages
+2026-09-08 05:59:56,575 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:00:06,762 INFO Found 0 unread messages
+2026-09-08 06:00:06,770 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:00:16,604 INFO Found 0 unread messages
+2026-09-08 06:00:16,604 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:00:26,718 INFO Found 0 unread messages
+2026-09-08 06:00:26,718 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:00:36,738 INFO Found 0 unread messages
+2026-09-08 06:00:36,738 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:00:46,733 INFO Found 0 unread messages
+2026-09-08 06:00:46,733 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:00:56,612 INFO Found 0 unread messages
+2026-09-08 06:00:56,612 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:01:06,625 INFO Found 0 unread messages
+2026-09-08 06:01:06,633 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:01:16,769 INFO Found 0 unread messages
+2026-09-08 06:01:16,769 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:01:26,704 INFO Found 0 unread messages
+2026-09-08 06:01:26,704 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:01:36,780 INFO Found 0 unread messages
+2026-09-08 06:01:36,780 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:01:46,704 INFO Found 0 unread messages
+2026-09-08 06:01:46,704 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:01:56,761 INFO Found 0 unread messages
+2026-09-08 06:01:56,761 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:02:06,653 INFO Found 0 unread messages
+2026-09-08 06:02:06,653 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:02:16,738 INFO Found 0 unread messages
+2026-09-08 06:02:16,738 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:02:26,829 INFO Found 0 unread messages
+2026-09-08 06:02:26,829 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:02:36,679 INFO Found 0 unread messages
+2026-09-08 06:02:36,679 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:02:46,709 INFO Found 0 unread messages
+2026-09-08 06:02:46,709 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:02:56,679 INFO Found 0 unread messages
+2026-09-08 06:02:56,679 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:03:06,679 INFO Found 0 unread messages
+2026-09-08 06:03:06,679 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:03:16,736 INFO Found 0 unread messages
+2026-09-08 06:03:16,736 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:03:26,777 INFO Found 0 unread messages
+2026-09-08 06:03:26,777 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:03:36,830 INFO Found 0 unread messages
+2026-09-08 06:03:36,830 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:03:46,663 INFO Found 0 unread messages
+2026-09-08 06:03:46,663 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:03:56,899 INFO Found 0 unread messages
+2026-09-08 06:03:56,899 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:04:06,671 INFO Found 0 unread messages
+2026-09-08 06:04:06,671 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:04:16,814 INFO Found 0 unread messages
+2026-09-08 06:04:16,814 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:04:26,903 INFO Found 0 unread messages
+2026-09-08 06:04:26,903 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:04:36,887 INFO Found 0 unread messages
+2026-09-08 06:04:36,887 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:04:46,856 INFO Found 0 unread messages
+2026-09-08 06:04:46,856 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:04:56,840 INFO Found 1 unread messages
+2026-09-08 06:04:56,840 INFO Email from ea@araspl.com: Is Inquiry=False, Reasons=['No inquiry indicators found']
+2026-09-08 06:04:57,079 INFO Processed: 1, Inquiries: 0, Auto-replies sent: 0, Ignored: 1, Errors: 0
+2026-09-08 06:05:06,869 INFO Found 0 unread messages
+2026-09-08 06:05:06,869 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:05:16,869 INFO Found 0 unread messages
+2026-09-08 06:05:16,869 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:05:26,894 INFO Found 0 unread messages
+2026-09-08 06:05:26,894 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:05:36,820 INFO Found 0 unread messages
+2026-09-08 06:05:36,820 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:05:46,905 INFO Found 0 unread messages
+2026-09-08 06:05:46,905 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:05:56,885 INFO Found 0 unread messages
+2026-09-08 06:05:56,885 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:06:06,792 INFO Found 0 unread messages
+2026-09-08 06:06:06,792 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:06:16,880 INFO Found 0 unread messages
+2026-09-08 06:06:16,880 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:06:26,774 INFO Found 0 unread messages
+2026-09-08 06:06:26,774 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:06:36,896 INFO Found 0 unread messages
+2026-09-08 06:06:36,896 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:06:46,693 INFO Found 0 unread messages
+2026-09-08 06:06:46,693 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:06:56,781 INFO Found 0 unread messages
+2026-09-08 06:06:56,781 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:07:06,784 INFO Found 0 unread messages
+2026-09-08 06:07:06,784 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:07:16,799 INFO Found 0 unread messages
+2026-09-08 06:07:16,799 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:07:26,824 INFO Found 0 unread messages
+2026-09-08 06:07:26,824 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:07:36,909 INFO Found 0 unread messages
+2026-09-08 06:07:36,909 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:07:46,755 INFO Found 0 unread messages
+2026-09-08 06:07:46,755 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:07:56,861 INFO Found 0 unread messages
+2026-09-08 06:07:56,861 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:08:06,831 INFO Found 0 unread messages
+2026-09-08 06:08:06,831 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:08:16,768 INFO Found 0 unread messages
+2026-09-08 06:08:16,768 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:08:26,855 INFO Found 0 unread messages
+2026-09-08 06:08:26,855 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:08:36,902 INFO Found 0 unread messages
+2026-09-08 06:08:36,902 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:08:46,853 INFO Found 0 unread messages
+2026-09-08 06:08:46,853 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:08:56,845 INFO Found 0 unread messages
+2026-09-08 06:08:56,845 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:09:06,891 INFO Found 0 unread messages
+2026-09-08 06:09:06,891 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:09:16,850 INFO Found 0 unread messages
+2026-09-08 06:09:16,850 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:09:26,904 INFO Found 0 unread messages
+2026-09-08 06:09:26,904 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:09:36,828 INFO Found 0 unread messages
+2026-09-08 06:09:36,828 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:09:46,847 INFO Found 0 unread messages
+2026-09-08 06:09:46,847 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:09:56,888 INFO Found 0 unread messages
+2026-09-08 06:09:56,888 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:10:06,773 INFO Found 0 unread messages
+2026-09-08 06:10:06,773 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:10:16,986 INFO Found 0 unread messages
+2026-09-08 06:10:16,986 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:10:26,883 INFO Found 0 unread messages
+2026-09-08 06:10:26,883 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:10:36,873 INFO Found 0 unread messages
+2026-09-08 06:10:36,873 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:10:46,876 INFO Found 0 unread messages
+2026-09-08 06:10:46,876 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:10:56,802 INFO Found 0 unread messages
+2026-09-08 06:10:56,802 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:11:06,971 INFO Found 0 unread messages
+2026-09-08 06:11:06,971 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:11:16,895 INFO Found 0 unread messages
+2026-09-08 06:11:16,895 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:11:27,052 INFO Found 0 unread messages
+2026-09-08 06:11:27,052 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:11:36,903 INFO Found 0 unread messages
+2026-09-08 06:11:36,903 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:11:46,878 INFO Found 0 unread messages
+2026-09-08 06:11:46,878 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:11:56,823 INFO Found 0 unread messages
+2026-09-08 06:11:56,823 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:12:06,930 INFO Found 0 unread messages
+2026-09-08 06:12:06,930 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:12:16,903 INFO Found 0 unread messages
+2026-09-08 06:12:16,903 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:12:26,932 INFO Found 0 unread messages
+2026-09-08 06:12:26,932 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:12:36,905 INFO Found 0 unread messages
+2026-09-08 06:12:36,905 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:12:46,923 INFO Found 0 unread messages
+2026-09-08 06:12:46,923 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:12:56,959 INFO Found 0 unread messages
+2026-09-08 06:12:56,959 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:13:07,016 INFO Found 0 unread messages
+2026-09-08 06:13:07,016 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:13:17,031 INFO Found 0 unread messages
+2026-09-08 06:13:17,031 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:13:26,993 INFO Found 0 unread messages
+2026-09-08 06:13:26,993 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:13:36,935 INFO Found 0 unread messages
+2026-09-08 06:13:36,935 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:13:47,006 INFO Found 0 unread messages
+2026-09-08 06:13:47,006 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:13:56,944 INFO Found 0 unread messages
+2026-09-08 06:13:56,944 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:14:06,917 INFO Found 0 unread messages
+2026-09-08 06:14:06,917 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:14:16,849 INFO Found 0 unread messages
+2026-09-08 06:14:16,849 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:14:26,954 INFO Found 0 unread messages
+2026-09-08 06:14:26,954 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:14:36,895 INFO Found 0 unread messages
+2026-09-08 06:14:36,895 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:14:46,876 INFO Found 0 unread messages
+2026-09-08 06:14:46,876 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:14:56,923 INFO Found 0 unread messages
+2026-09-08 06:14:56,923 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:15:07,097 INFO Found 0 unread messages
+2026-09-08 06:15:07,105 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:15:17,060 INFO Found 0 unread messages
+2026-09-08 06:15:17,060 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:15:27,011 INFO Found 0 unread messages
+2026-09-08 06:15:27,011 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:15:37,001 INFO Found 0 unread messages
+2026-09-08 06:15:37,001 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:15:46,789 INFO Found 0 unread messages
+2026-09-08 06:15:46,789 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:15:56,948 INFO Found 0 unread messages
+2026-09-08 06:15:56,948 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:16:07,065 INFO Found 0 unread messages
+2026-09-08 06:16:07,065 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:16:17,061 INFO Found 0 unread messages
+2026-09-08 06:16:17,061 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:16:26,888 INFO Found 0 unread messages
+2026-09-08 06:16:26,888 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:16:36,990 INFO Found 0 unread messages
+2026-09-08 06:16:36,990 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:16:46,871 INFO Found 0 unread messages
+2026-09-08 06:16:46,871 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:16:56,957 INFO Found 0 unread messages
+2026-09-08 06:16:56,957 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:17:07,014 INFO Found 0 unread messages
+2026-09-08 06:17:07,014 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:17:17,023 INFO Found 0 unread messages
+2026-09-08 06:17:17,023 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:17:26,882 INFO Found 0 unread messages
+2026-09-08 06:17:26,882 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:17:37,134 INFO Found 0 unread messages
+2026-09-08 06:17:37,134 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:17:47,147 INFO Found 0 unread messages
+2026-09-08 06:17:47,147 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:17:56,958 INFO Found 0 unread messages
+2026-09-08 06:17:56,958 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:18:06,989 INFO Found 0 unread messages
+2026-09-08 06:18:06,989 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:18:16,985 INFO Found 0 unread messages
+2026-09-08 06:18:16,985 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:18:27,039 INFO Found 0 unread messages
+2026-09-08 06:18:27,039 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:18:37,101 INFO Found 0 unread messages
+2026-09-08 06:18:37,101 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:18:46,967 INFO Found 0 unread messages
+2026-09-08 06:18:46,967 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:18:56,884 INFO Found 0 unread messages
+2026-09-08 06:18:56,884 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:19:07,195 INFO Found 0 unread messages
+2026-09-08 06:19:07,195 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:19:17,131 INFO Found 0 unread messages
+2026-09-08 06:19:17,131 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:19:26,911 INFO Found 0 unread messages
+2026-09-08 06:19:26,911 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:19:36,966 INFO Found 0 unread messages
+2026-09-08 06:19:36,966 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:19:47,035 INFO Found 0 unread messages
+2026-09-08 06:19:47,035 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:19:57,129 INFO Found 0 unread messages
+2026-09-08 06:19:57,129 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:20:07,149 INFO Found 0 unread messages
+2026-09-08 06:20:07,149 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:20:17,067 INFO Found 0 unread messages
+2026-09-08 06:20:17,067 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:20:27,106 INFO Found 0 unread messages
+2026-09-08 06:20:27,106 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:20:37,133 INFO Found 0 unread messages
+2026-09-08 06:20:37,133 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:20:47,136 INFO Found 0 unread messages
+2026-09-08 06:20:47,136 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:20:57,293 INFO Found 0 unread messages
+2026-09-08 06:20:57,293 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:21:07,189 INFO Found 0 unread messages
+2026-09-08 06:21:07,189 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:21:17,050 INFO Found 0 unread messages
+2026-09-08 06:21:17,050 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:21:27,178 INFO Found 0 unread messages
+2026-09-08 06:21:27,178 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:21:37,171 INFO Found 0 unread messages
+2026-09-08 06:21:37,171 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:21:47,072 INFO Found 0 unread messages
+2026-09-08 06:21:47,072 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:21:57,126 INFO Found 0 unread messages
+2026-09-08 06:21:57,126 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:22:07,088 INFO Found 0 unread messages
+2026-09-08 06:22:07,088 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:22:17,141 INFO Found 0 unread messages
+2026-09-08 06:22:17,141 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:22:27,221 INFO Found 0 unread messages
+2026-09-08 06:22:27,221 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:22:37,188 INFO Found 0 unread messages
+2026-09-08 06:22:37,188 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:22:47,160 INFO Found 0 unread messages
+2026-09-08 06:22:47,160 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:22:57,281 INFO Found 0 unread messages
+2026-09-08 06:22:57,281 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:23:07,161 INFO Found 0 unread messages
+2026-09-08 06:23:07,161 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:23:17,290 INFO Found 0 unread messages
+2026-09-08 06:23:17,290 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:23:27,168 INFO Found 0 unread messages
+2026-09-08 06:23:27,168 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:23:37,230 INFO Found 0 unread messages
+2026-09-08 06:23:37,230 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:23:47,228 INFO Found 0 unread messages
+2026-09-08 06:23:47,228 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:23:57,265 INFO Found 0 unread messages
+2026-09-08 06:23:57,265 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:24:07,312 INFO Found 0 unread messages
+2026-09-08 06:24:07,312 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:24:17,262 INFO Found 0 unread messages
+2026-09-08 06:24:17,262 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:24:27,288 INFO Found 0 unread messages
+2026-09-08 06:24:27,288 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:24:37,190 INFO Found 0 unread messages
+2026-09-08 06:24:37,190 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:24:47,182 INFO Found 0 unread messages
+2026-09-08 06:24:47,182 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:24:57,238 INFO Found 0 unread messages
+2026-09-08 06:24:57,238 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:25:07,206 INFO Found 0 unread messages
+2026-09-08 06:25:07,206 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:25:17,259 INFO Found 0 unread messages
+2026-09-08 06:25:17,259 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:25:27,283 INFO Found 0 unread messages
+2026-09-08 06:25:27,283 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:25:37,517 INFO Found 0 unread messages
+2026-09-08 06:25:37,517 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:25:47,222 INFO Found 0 unread messages
+2026-09-08 06:25:47,222 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:25:57,222 INFO Found 0 unread messages
+2026-09-08 06:25:57,222 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:26:07,278 INFO Found 0 unread messages
+2026-09-08 06:26:07,278 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:26:17,283 INFO Found 0 unread messages
+2026-09-08 06:26:17,283 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:26:27,316 INFO Found 0 unread messages
+2026-09-08 06:26:27,316 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:26:37,408 INFO Found 0 unread messages
+2026-09-08 06:26:37,416 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:26:47,493 INFO Found 0 unread messages
+2026-09-08 06:26:47,503 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:26:57,283 INFO Found 0 unread messages
+2026-09-08 06:26:57,283 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:27:07,267 INFO Found 0 unread messages
+2026-09-08 06:27:07,267 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:27:17,225 INFO Found 0 unread messages
+2026-09-08 06:27:17,225 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:27:27,273 INFO Found 0 unread messages
+2026-09-08 06:27:27,273 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:27:37,342 INFO Found 0 unread messages
+2026-09-08 06:27:37,342 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:27:47,316 INFO Found 0 unread messages
+2026-09-08 06:27:47,316 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:27:57,392 INFO Found 0 unread messages
+2026-09-08 06:27:57,392 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:28:07,252 INFO Found 0 unread messages
+2026-09-08 06:28:07,252 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:28:17,310 INFO Found 0 unread messages
+2026-09-08 06:28:17,310 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:28:27,451 INFO Found 0 unread messages
+2026-09-08 06:28:27,451 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:28:37,492 INFO Found 0 unread messages
+2026-09-08 06:28:37,492 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:28:47,447 INFO Found 0 unread messages
+2026-09-08 06:28:47,447 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:28:57,310 INFO Found 0 unread messages
+2026-09-08 06:28:57,310 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:29:07,382 INFO Found 0 unread messages
+2026-09-08 06:29:07,382 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:29:17,470 INFO Found 0 unread messages
+2026-09-08 06:29:17,470 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:29:27,446 INFO Found 0 unread messages
+2026-09-08 06:29:27,446 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
+2026-09-08 06:29:37,408 INFO Found 0 unread messages
+2026-09-08 06:29:37,408 INFO Processed: 0, Inquiries: 0, Auto-replies sent: 0, Ignored: 0, Errors: 0
