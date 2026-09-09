@@ -110,6 +110,27 @@ Check API status:
 curl http://localhost:8000/status
 ```
 
+Process the inbox once:
+
+```powershell
+curl -X POST http://localhost:8000/inbox/process
+```
+
+Start the inbox processing scheduler:
+
+```powershell
+curl -X POST http://localhost:8000/inbox/scheduler/start `
+  -H "Content-Type: application/json" `
+  -d '{"interval_seconds":60}'
+```
+
+Check or stop the inbox scheduler:
+
+```powershell
+curl http://localhost:8000/inbox/scheduler/status
+curl -X POST http://localhost:8000/inbox/scheduler/stop
+```
+
 Start the API scheduler (legacy outbound API feature):
 
 ```powershell

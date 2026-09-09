@@ -29,6 +29,16 @@ scheduler_state = {
     "last_error": None,
 }
 
+inbox_scheduler_state = {
+    "running": False,
+    "interval": int(os.getenv("INQUIRY_INTERVAL_SECONDS", "10")),
+    "last_run": None,
+    "last_result": None,
+    "last_error": None,
+    "task": None,
+}
+inbox_process_lock = asyncio.Lock()
+
 # Request/Response models
 class SendEmailRequest(BaseModel):
     recipient: Optional[str] = None
@@ -60,6 +70,16 @@ class InboxProcessResponse(BaseModel):
     ignored: int
     errors: int
 
+class InboxSchedulerConfig(BaseModel):
+    interval_seconds: Optional[int] = None
+
+class InboxSchedulerStatus(BaseModel):
+    running: bool
+    interval_seconds: int
+    last_run: Optional[str]
+    last_result: Optional[InboxProcessResponse]
+    last_error: Optional[str]
+
 # Endpoints
 @app.get("/health", tags=["Health"])
 async def health_check():
@@ -67,18 +87,53 @@ async def health_check():
     return {"status": "healthy", "service": "email-scheduler"}
 
 @app.post("/inbox/process", response_model=InboxProcessResponse, tags=["Inbox"])
-def process_inbox_endpoint():
+async def process_inbox_endpoint():
     """Classify unread Outlook messages, reply to inquiries, and ignore the rest."""
     try:
-        settings = Settings.from_environment()
-        result = process_unread(
-            GraphMailbox(settings),
-            InquiryStore(os.getenv("INQUIRY_DATA_DIR", "data")),
-        )
-        return InboxProcessResponse(**result.__dict__)
+        return await _process_inbox_once()
     except Exception as error:
-        scheduler_state["last_error"] = str(error)
+        inbox_scheduler_state["last_error"] = str(error)
         raise HTTPException(status_code=500, detail=f"Failed to process inbox: {error}") from error
+
+@app.get("/inbox/scheduler/status", response_model=InboxSchedulerStatus, tags=["Inbox"])
+async def get_inbox_scheduler_status():
+    """Get the status and most recent result of the inbox processor scheduler."""
+    return InboxSchedulerStatus(
+        running=inbox_scheduler_state["running"],
+        interval_seconds=inbox_scheduler_state["interval"],
+        last_run=inbox_scheduler_state["last_run"],
+        last_result=inbox_scheduler_state["last_result"],
+        last_error=inbox_scheduler_state["last_error"],
+    )
+
+@app.post("/inbox/scheduler/start", response_model=InboxSchedulerStatus, tags=["Inbox"])
+async def start_inbox_scheduler(config: Optional[InboxSchedulerConfig] = None):
+    """Start repeatedly processing unread inbox messages."""
+    if inbox_scheduler_state["running"]:
+        raise HTTPException(status_code=400, detail="Inbox scheduler is already running")
+
+    if config and config.interval_seconds is not None:
+        if config.interval_seconds < 1:
+            raise HTTPException(status_code=400, detail="Interval must be at least 1 second")
+        inbox_scheduler_state["interval"] = config.interval_seconds
+
+    inbox_scheduler_state["running"] = True
+    inbox_scheduler_state["last_error"] = None
+    inbox_scheduler_state["task"] = asyncio.create_task(_run_inbox_scheduler())
+    return await get_inbox_scheduler_status()
+
+@app.post("/inbox/scheduler/stop", response_model=InboxSchedulerStatus, tags=["Inbox"])
+async def stop_inbox_scheduler():
+    """Stop the inbox processor scheduler after its current run."""
+    if not inbox_scheduler_state["running"]:
+        raise HTTPException(status_code=400, detail="Inbox scheduler is not running")
+
+    inbox_scheduler_state["running"] = False
+    task = inbox_scheduler_state["task"]
+    if task is not None:
+        task.cancel()
+        inbox_scheduler_state["task"] = None
+    return await get_inbox_scheduler_status()
 
 @app.post("/send", response_model=SendEmailResponse, tags=["Email"])
 async def send_email_endpoint(request: SendEmailRequest):
@@ -197,6 +252,38 @@ async def _run_scheduler():
         
         # Sleep for the configured interval
         await asyncio.sleep(scheduler_state["interval"])
+
+async def _process_inbox_once() -> InboxProcessResponse:
+    """Run the blocking Graph workflow off the API event loop."""
+    async with inbox_process_lock:
+        settings = Settings.from_environment()
+        result = await asyncio.to_thread(
+            process_unread,
+            GraphMailbox(settings),
+            InquiryStore(os.getenv("INQUIRY_DATA_DIR", "data")),
+        )
+        response = InboxProcessResponse(**result.__dict__)
+        inbox_scheduler_state["last_run"] = datetime.utcnow().isoformat()
+        inbox_scheduler_state["last_result"] = response
+        inbox_scheduler_state["last_error"] = None
+        return response
+
+async def _run_inbox_scheduler():
+    """Process the inbox immediately, then repeat at the configured interval."""
+    try:
+        while inbox_scheduler_state["running"]:
+            try:
+                await _process_inbox_once()
+            except asyncio.CancelledError:
+                raise
+            except Exception as error:
+                inbox_scheduler_state["last_error"] = str(error)
+            await asyncio.sleep(inbox_scheduler_state["interval"])
+    except asyncio.CancelledError:
+        pass
+    finally:
+        inbox_scheduler_state["running"] = False
+        inbox_scheduler_state["task"] = None
 
 if __name__ == "__main__":
     import uvicorn

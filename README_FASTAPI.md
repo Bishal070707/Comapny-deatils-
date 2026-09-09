@@ -73,6 +73,17 @@ Access the Swagger UI: http://localhost:8000/docs
   {
     "recipient": "user@example.com",
     "subject": "Custom Subject",
+
+### Inbox Operations
+- **POST** `/inbox/process` - Process unread inbox messages once
+- **GET** `/inbox/scheduler/status` - Get inbox scheduler status and latest result
+- **POST** `/inbox/scheduler/start` - Start processing unread messages repeatedly
+  ```json
+  {
+    "interval_seconds": 60
+  }
+  ```
+- **POST** `/inbox/scheduler/stop` - Stop the inbox scheduler
     "template": "company_profile",
     "name": ""
   }
