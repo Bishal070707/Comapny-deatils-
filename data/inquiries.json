@@ -153,5 +153,183 @@
     "is_spam": false,
     "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFIvfCjAAA=",
     "timestamp": "2026-09-08T12:57:07.044694+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "sales5@araspl.com",
+    "phone": "",
+    "product_interest": "Flat, Plate, Steel Product",
+    "quantity": "",
+    "detected_products": [
+      "Flat",
+      "Plate",
+      "Steel Product"
+    ],
+    "reasons": [
+      "Multiple products (3) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlni0AAA=",
+    "timestamp": "2026-09-09T06:45:47.113696+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Plate, Flat, Steel Product",
+    "quantity": "",
+    "detected_products": [
+      "Plate",
+      "Flat",
+      "Steel Product"
+    ],
+    "reasons": [
+      "Multiple products (2) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlnjIAAA=",
+    "timestamp": "2026-09-10T06:10:23.438824+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Angle",
+    "quantity": "",
+    "detected_products": [
+      "Angle"
+    ],
+    "reasons": [
+      "Multiple products (2) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlnjHAAA=",
+    "timestamp": "2026-09-10T06:10:24.052965+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Steel Product, Flat, Plate",
+    "quantity": "",
+    "detected_products": [
+      "Steel Product",
+      "Flat",
+      "Plate"
+    ],
+    "reasons": [
+      "Multiple products (2) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlnjLAAA=",
+    "timestamp": "2026-09-10T06:19:08.389742+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Steel Product, Plate, Flat",
+    "quantity": "",
+    "detected_products": [
+      "Steel Product",
+      "Plate",
+      "Flat"
+    ],
+    "reasons": [
+      "Multiple products (2) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlnjMAAA=",
+    "timestamp": "2026-09-10T06:53:00.139420+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Plate, Steel Product, Flat",
+    "quantity": "",
+    "detected_products": [
+      "Plate",
+      "Steel Product",
+      "Flat"
+    ],
+    "reasons": [
+      "Multiple products (2) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlnjNAAA=",
+    "timestamp": "2026-09-10T06:55:43.575912+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "hr1@araspl.com",
+    "phone": "",
+    "product_interest": "Plate, Flat, Angle",
+    "quantity": "",
+    "detected_products": [
+      "Plate",
+      "Flat",
+      "Angle"
+    ],
+    "reasons": [
+      "Multiple products (2) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlnjPAAA=",
+    "timestamp": "2026-09-10T08:11:58.673291+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Plate, Flat, Steel Product",
+    "quantity": "",
+    "detected_products": [
+      "Plate",
+      "Flat",
+      "Steel Product"
+    ],
+    "reasons": [
+      "Multiple products (2) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlnjRAAA=",
+    "timestamp": "2026-09-10T12:24:28.584875+00:00"
+  },
+  {
+    "is_inquiry": true,
+    "company_name": "",
+    "contact_person": "",
+    "email": "roybishal200189@gmail.com",
+    "phone": "",
+    "product_interest": "Plate, Flat, Steel Product",
+    "quantity": "",
+    "detected_products": [
+      "Plate",
+      "Flat",
+      "Steel Product"
+    ],
+    "reasons": [
+      "Multiple products (2) with quantities"
+    ],
+    "is_spam": false,
+    "message_id": "AAMkADM0OWM2NTdkLWRlZWEtNDlkMS05ZWQyLTQyZDZkYjc5YmQ5OQBGAAAAAABlGtqsIfsRQJ2u_5ZGJ3n0BwBJQ8M0YfOHQJCBZSJHT0p_AAAAAAEMAABJQ8M0YfOHQJCBZSJHT0p_AAFKlnjSAAA=",
+    "timestamp": "2026-09-10T12:34:52.973215+00:00"
   }
 ]

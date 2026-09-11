@@ -21,7 +21,151 @@ from huggingface_hub import hf_hub_download
 
 from send_email import GRAPH_BASE_URL, Settings, get_access_token
 
-AUTO_REPLY = "Thank you for your inquiry. We will get back to you within 24 hours."
+# AUTO_REPLY = "Thank you for your inquiry. We will get back to you within 24 hours."
+AUTO_REPLY = """
+<html>
+<body style="margin:0; padding:0; background-color:#FFFFFF;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="font-family:'Calibri','Segoe UI',Arial,sans-serif; font-size:11pt; color:#1A1A1A; line-height:1.65;">
+  <tr>
+    <td style="padding:0 0 20px 0;">
+
+      <!-- ===== GREETING ===== -->
+      <p style="margin:0 0 14px 0;">Dear Sir/Madam,</p>
+
+      <!-- ===== OPENING / GRATITUDE ===== -->
+      <p style="margin:0 0 14px 0;">
+        Greetings from <strong style="color:#1F3A5F; font-size:11.5pt;">ARASPL</strong> — 
+        <em style="color:#5A5A5A;">Soaring to Excellence</em>.
+      </p>
+
+      <p style="margin:0 0 14px 0;">
+        Thank you for reaching out to us and for considering ARASPL for your 
+        steel and engineering requirements. We truly value the opportunity to 
+        serve you.
+      </p>
+
+      <!-- ===== ACKNOWLEDGEMENT ===== -->
+      <p style="margin:0 0 14px 0;">
+        We would like to acknowledge that we have successfully received your inquiry. 
+        Our team is currently reviewing the details you have shared and evaluating 
+        the best possible solution to meet your specific requirements.
+      </p>
+
+      <!-- ===== WHAT HAPPENS NEXT ===== -->
+      <p style="margin:0 0 8px 0; font-weight:bold; color:#1F3A5F;">
+        Here is what you can expect next:
+      </p>
+
+      <table cellpadding="0" cellspacing="0" border="0" style="margin:0 0 16px 0; font-size:10.5pt;">
+        <tr>
+          <td style="padding:4px 10px 4px 0; color:#2E75B6; font-weight:bold; vertical-align:top;">1.</td>
+          <td style="padding:4px 0; vertical-align:top;">
+            Our dedicated sales representative will personally connect with you 
+            <strong>within the next few hours</strong>.
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:4px 10px 4px 0; color:#2E75B6; font-weight:bold; vertical-align:top;">2.</td>
+          <td style="padding:4px 0; vertical-align:top;">
+            You will receive a <strong>detailed quotation</strong> with competitive pricing, 
+            product specifications, and delivery timelines.
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:4px 10px 4px 0; color:#2E75B6; font-weight:bold; vertical-align:top;">3.</td>
+          <td style="padding:4px 0; vertical-align:top;">
+            We will be happy to address any further questions, customizations, or 
+            clarifications you may have.
+          </td>
+        </tr>
+      </table>
+
+      <!-- ===== ASSURANCE ===== -->
+      <p style="margin:0 0 14px 0;">
+        At ARASPL, we are committed to delivering <strong>quality products</strong>, 
+        <strong>timely service</strong>, and <strong>long-term business relationships</strong>. 
+        Your satisfaction is our top priority.
+      </p>
+
+      <!-- ===== URGENT CONTACT ===== -->
+      <p style="margin:0 0 14px 0;">
+        Should your requirement be urgent, please feel free to reach out to us directly at 
+        <a href="mailto:admin@araspl.com" style="color:#2E75B6; text-decoration:none; font-weight:bold;">admin@araspl.com</a> 
+        or call us at 
+        <strong style="color:#1F3A5F;">+91 98304 47905</strong>. 
+        We will be glad to assist you immediately.
+      </p>
+
+      <!-- ===== CLOSING ===== -->
+      <p style="margin:0 0 4px 0;">
+        Once again, thank you for choosing ARASPL. We look forward to building a 
+        lasting partnership with you.
+      </p>
+
+      <p style="margin:20px 0 4px 0; color:#1A1A1A;">Warm Regards,</p>
+
+    </td>
+  </tr>
+</table>
+
+<!-- ===== SIGNATURE BLOCK ===== -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="font-family:'Calibri','Segoe UI',Arial,sans-serif; max-width:560px;">
+  <tr>
+    <td style="border-top:2px solid #1F3A5F; padding-top:14px;">
+
+      <div style="font-size:13pt; font-weight:bold; color:#1F3A5F; letter-spacing:0.3px;">
+        Sales Team
+      </div>
+
+      <div style="font-size:11.5pt; font-weight:bold; color:#2E75B6; margin-top:2px; letter-spacing:1px;">
+        ARASPL
+      </div>
+
+      <div style="font-size:9pt; font-style:italic; color:#5A5A5A; margin-top:1px;">
+        Soaring to Excellence
+      </div>
+
+      <div style="border-top:1px solid #D9D9D9; margin:10px 0;"></div>
+
+      <table cellpadding="0" cellspacing="0" border="0" style="font-size:10pt; color:#1A1A1A;">
+        <tr>
+          <td style="padding:2px 0; color:#1F3A5F; font-weight:bold; width:70px;">Phone</td>
+          <td style="padding:2px 0;">+91 98304 47905 &nbsp;|&nbsp; +91 6942943435</td>
+        </tr>
+        <tr>
+          <td style="padding:2px 0; color:#1F3A5F; font-weight:bold;">Email</td>
+          <td style="padding:2px 0;">
+            <a href="mailto:admin@araspl.com" style="color:#2E75B6; text-decoration:none;">admin@araspl.com</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:2px 0; color:#1F3A5F; font-weight:bold;">Website</td>
+          <td style="padding:2px 0;">
+            <a href="https://www.araspl.co.in" style="color:#2E75B6; text-decoration:none;">www.araspl.co.in</a>
+          </td>
+        </tr>
+      </table>
+
+      <div style="border-top:1px solid #D9D9D9; margin:10px 0;"></div>
+
+      <div style="font-size:9pt; color:#5A5A5A; line-height:1.55;">
+        Fortuna Tower | 23A, Netaji Subhash Road |<br>
+        2nd Floor, Room No. 18A | Kolkata 700 001 |<br>
+        West Bengal | India
+      </div>
+
+      <div style="font-size:8.5pt; color:#808080; margin-top:8px; line-height:1.5;">
+        CIN No: U74900WB2009PTC135480 &nbsp;|&nbsp; GST NO: 19AAHCA8267H1Z9
+      </div>
+
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+"""
+
 INQUIRY_FIELDS = ("company_name", "contact_person", "email", "phone", "product_interest", "quantity")
 LOGGER = logging.getLogger("inquiry_processor")
 
